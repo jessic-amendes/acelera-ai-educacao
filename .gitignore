@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ambiente virtual
+venv/
+
+# credenciais (nunca subir!)
+.env
+.kaggle/
+
+# dados brutos grandes do World Bank
+data/raw/*.csv
+!data/raw/.gitkeep
+
+# checkpoints do Jupyter
+.ipynb_checkpoints/
