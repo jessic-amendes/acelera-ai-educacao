@@ -1,0 +1,1285 @@
+Country Name,Country Code,Indicator Name,Indicator Code,Valor_Inicial,Ano_Inicial,Valor_Final,Ano_Final,Crescimento_Absoluto,Crescimento_Percentual
+Afghanistan,AFG,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,62.1364707946777,1990.0,56.6954917907715,2017.0,-5.4409790039062,-8.756498292098442
+Afghanistan,AFG,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.46148991584778,1990.0,3.31753993034363,2017.0,-0.14394998550414995,-4.158613458473533
+Afghanistan,AFG,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,30.0911502838135,1990.0,111.877082824707,2017.0,81.7859325408935,271.79397188045493
+Afghanistan,AFG,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,11.2228298187256,1990.0,55.6444091796875,2017.0,44.4215793609619,395.81442540314805
+Afghanistan,AFG,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,29.553840637207,1990.0,29.553840637207,2017.0,0.0,0.0
+Afghanistan,AFG,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,15106.0,1990.0,142880.0,2017.0,127774.0,845.8493313915002
+Albania,ALB,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,54.8003311157227,1990.0,54.8003311157227,2017.0,0.0,0.0
+Albania,ALB,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.2632999420166,1990.0,3.53943991661072,2017.0,0.2761399745941202,8.461985704675245
+Albania,ALB,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,99.8214721679688,1990.0,113.699798583984,2017.0,13.878326416015199,13.903147403659052
+Albania,ALB,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,90.2612762451172,1990.0,95.7654876708984,2017.0,5.504211425781193,6.098087302503603
+Albania,ALB,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,92.0243911743164,1990.0,106.367561340332,2017.0,14.343170166015597,15.586270099680604
+Albania,ALB,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,13342.0,1990.0,10119.0,2017.0,-3223.0,-24.15679808124719
+Algeria,DZA,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+Algeria,DZA,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.35424995422363,1990.0,4.35424995422363,2017.0,0.0,0.0
+Algeria,DZA,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,92.0762023925781,1990.0,116.154441833496,2017.0,24.078239440917898,26.15033940937029
+Algeria,DZA,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,59.1210517883301,1990.0,99.8601913452148,2017.0,40.7391395568847,68.90800877958365
+Algeria,DZA,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,77.014060974121,1990.0,105.799018859863,2017.0,28.784957885742003,37.37623691265235
+Algeria,DZA,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,144945.0,1990.0,164684.0,2017.0,19739.0,13.61826899858567
+American Samoa,ASM,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+American Samoa,ASM,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,,,,,,
+American Samoa,ASM,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,,,,,,
+American Samoa,ASM,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,,,,,,
+American Samoa,ASM,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+American Samoa,ASM,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,461.0,1990.0,524.0,2017.0,63.0,13.665943600867678
+Andorra,AND,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,27.1388702392578,1990.0,22.0757102966309,2017.0,-5.0631599426269,-18.656487532420467
+Andorra,AND,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.71327996253967,1990.0,3.25367999076843,2017.0,-0.45959997177124023,-12.377196882749995
+Andorra,AND,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,,,,,,
+Andorra,AND,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,,,,,,
+Andorra,AND,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+Andorra,AND,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,324.0,1990.0,419.0,2017.0,95.0,29.32098765432099
+Angola,AGO,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,36.4987602233887,1990.0,31.4335098266602,2017.0,-5.065250396728501,-13.8778697296207
+Angola,AGO,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.5914900302887,1990.0,3.47622990608215,2017.0,0.8847398757934504,34.14019986389405
+Angola,AGO,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,78.2584991455078,1990.0,128.704147338867,2017.0,50.44564819335919,64.46028066493386
+Angola,AGO,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,10.3700199127197,1990.0,28.8987197875977,2017.0,18.528699874878,178.67564412437622
+Angola,AGO,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,31.4551200866699,1990.0,49.7251281738281,2017.0,18.270008087158196,58.082779645469195
+Angola,AGO,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,31062.0,1990.0,118158.0,2017.0,87096.0,280.3940506084605
+Antigua and Barbuda,ATG,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,33.1089286804199,1990.0,41.6132392883301,2017.0,8.504310607910199,25.68585256864416
+Antigua and Barbuda,ATG,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.23707008361816,1990.0,2.55447006225586,2017.0,-0.6826000213623002,-21.086970739890187
+Antigua and Barbuda,ATG,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,100.140007019043,1990.0,97.0528717041016,2017.0,-3.087135314941392,-3.0828191517445482
+Antigua and Barbuda,ATG,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,119.971260070801,1990.0,102.705459594727,2017.0,-17.26580047607399,-14.39161384642004
+Antigua and Barbuda,ATG,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,96.6875610351563,1990.0,84.8425216674805,2017.0,-11.84503936767581,-12.250840998428812
+Antigua and Barbuda,ATG,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,695.0,1990.0,703.0,2017.0,8.0,1.1510791366906474
+Argentina,ARG,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,3.26374006271362,1990.0,30.0603904724121,2017.0,26.79665040969848,821.0411949111701
+Argentina,ARG,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,1.06737995147705,1990.0,5.32548999786377,2017.0,4.2581100463867205,398.93104985664286
+Argentina,ARG,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,106.561569213867,1990.0,109.988891601563,2017.0,3.4273223876959946,3.2162837061993943
+Argentina,ARG,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,71.1518478393555,1990.0,106.777900695801,2017.0,35.6260528564455,50.070453457345096
+Argentina,ARG,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,98.6802978515625,1990.0,101.807647705078,2017.0,3.127349853515497,3.169173504339984
+Argentina,ARG,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,295488.0,1990.0,288776.0,2017.0,-6712.0,-2.2714966428416723
+Armenia,ARM,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,18.6779499053955,1990.0,19.3593006134033,2017.0,0.6813507080077983,3.647888079038998
+Armenia,ARM,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,1.84902000427246,1990.0,2.81350994110107,2017.0,0.9644899368286102,52.16222293971941
+Armenia,ARM,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,102.468963623047,1990.0,98.4666213989258,2017.0,-4.002342224121207,-3.9059068059326143
+Armenia,ARM,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,91.3158569335938,1990.0,88.5023574829102,2017.0,-2.813499450683608,-3.081063404715815
+Armenia,ARM,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,105.992240905762,1990.0,99.0716400146484,2017.0,-6.920600891113608,-6.5293467068657725
+Armenia,ARM,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,12556.0,1990.0,6606.0,2017.0,-5950.0,-47.3877030901561
+Aruba,ABW,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,23.0672092437744,1990.0,26.2166194915771,2017.0,3.149410247802699,13.653191482852186
+Aruba,ABW,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.76316022872925,1990.0,6.16293001174927,2017.0,1.3997697830200204,29.387417508595153
+Aruba,ABW,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,112.199333190918,1990.0,117.31803894043,2017.0,5.118705749512003,4.562153449523654
+Aruba,ABW,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,98.7969207763672,1990.0,111.174522399902,2017.0,12.377601623534801,12.528327326670684
+Aruba,ABW,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,101.619117736816,1990.0,101.110336303711,2017.0,-0.5087814331049998,-0.5006749167245244
+Aruba,ABW,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,473.0,1990.0,601.0,2017.0,128.0,27.061310782241016
+Australia,AUS,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,29.3297290802002,1990.0,32.6254196166992,2017.0,3.2956905364989986,11.236689324634234
+Australia,AUS,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.67038011550903,1990.0,5.22533988952637,2017.0,0.5549597740173402,11.882539756763558
+Australia,AUS,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,105.8115234375,1990.0,102.207817077637,2017.0,-3.603706359862997,-3.4057787306990326
+Australia,AUS,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,133.60986328125,1990.0,137.564788818359,2017.0,3.9549255371090055,2.960055073766411
+Australia,AUS,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+Australia,AUS,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,96779.0,1990.0,105469.0,2017.0,8690.0,8.979220698705298
+Austria,AUT,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,18.1251697540283,1990.0,16.2967090606689,2017.0,-1.8284606933593999,-10.087964516597294
+Austria,AUT,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.97710990905762,1990.0,5.49954986572266,2017.0,0.52243995666504,10.496853921475088
+Austria,AUT,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,105.482109069824,1990.0,102.970161437988,2017.0,-2.5119476318360086,-2.3813968586589613
+Austria,AUT,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,101.358589172363,1990.0,100.02188873291,2017.0,-1.336700439452997,-1.3187835884139056
+Austria,AUT,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,101.055191040039,1990.0,101.234260559082,2017.0,0.17906951904299717,0.17719972343830231
+Austria,AUT,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,33796.0,1990.0,30972.43359375,2017.0,-2823.56640625,-8.354735490146762
+Azerbaijan,AZE,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+Azerbaijan,AZE,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,6.05797004699707,1990.0,2.63466000556946,2017.0,-3.4233100414276105,-56.50919391924927
+Azerbaijan,AZE,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,110.121559143066,1990.0,106.601486206055,2017.0,-3.520072937010994,-3.1965338707544464
+Azerbaijan,AZE,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,88.764793395996,1990.0,72.3654022216797,2017.0,-16.399391174316293,-18.47510769405569
+Azerbaijan,AZE,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,95.7973785400391,1990.0,103.280212402344,2017.0,7.482833862304901,7.811105038931106
+Azerbaijan,AZE,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,26177.0,1990.0,40830.0,2017.0,14653.0,55.97662069755892
+"Bahamas, The",BHS,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+"Bahamas, The",BHS,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.84998989105225,1990.0,2.84998989105225,2017.0,0.0,0.0
+"Bahamas, The",BHS,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,98.2763824462891,1990.0,107.897750854492,2017.0,9.621368408202898,9.79011250588233
+"Bahamas, The",BHS,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,85.6882781982422,1990.0,92.6336822509766,2017.0,6.945404052734403,8.10543075292751
+"Bahamas, The",BHS,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,86.3110198974609,1990.0,93.0985870361328,2017.0,6.787567138671903,7.8640794034593275
+"Bahamas, The",BHS,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,1581.0,1990.0,2402.0,2017.0,821.0,51.929158760278305
+Bahrain,BHR,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,32.0718116760254,1990.0,32.9869194030762,2017.0,0.9151077270508026,2.8533084949949115
+Bahrain,BHR,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.87436008453369,1990.0,2.66808009147644,2017.0,-0.2062799930572501,-7.176553632483213
+Bahrain,BHR,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,110.33341217041,1990.0,101.171173095703,2017.0,-9.162239074707003,-8.304138242870547
+Bahrain,BHR,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,86.931541442871,1990.0,102.130897521973,2017.0,15.199356079102003,17.484282260300883
+Bahrain,BHR,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,102.981750488281,1990.0,98.7109375,2017.0,-4.270812988280994,-4.1471551687859485
+Bahrain,BHR,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,3059.0,1990.0,9219.0,2017.0,6160.0,201.3729977116705
+Bangladesh,BGD,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,46.6619186401367,1990.0,43.4998817443848,2017.0,-3.1620368957518963,-6.776482810614735
+Bangladesh,BGD,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,1.51893997192383,1990.0,1.92633998394012,2017.0,0.40740001201629017,26.821337218500695
+Bangladesh,BGD,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,81.0475616455078,1990.0,120.433059692383,2017.0,39.3854980468752,48.5955372959184
+Bangladesh,BGD,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,20.400520324707,1990.0,63.524528503418,2017.0,43.124008178710994,211.38680529870436
+Bangladesh,BGD,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,64.3702774047852,1990.0,98.4517822265625,2017.0,34.0815048217773,52.94602757023963
+Bangladesh,BGD,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,189508.0,1990.0,527798.0,2017.0,338290.0,178.5096143698419
+Barbados,BRB,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,35.2524299621582,1990.0,36.8565483093262,2017.0,1.6041183471679972,4.550376665920453
+Barbados,BRB,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,6.63813018798828,1990.0,6.57329988479614,2017.0,-0.06483030319214045,-0.9766350064879883
+Barbados,BRB,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,114.485313415527,1990.0,93.6272811889648,2017.0,-20.8580322265622,-18.21895892520074
+Barbados,BRB,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,85.429573059082,1990.0,109.247566223145,2017.0,23.817993164062997,27.88026711498462
+Barbados,BRB,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,94.900993347168,1990.0,95.5480270385742,2017.0,0.6470336914062074,0.6817986499247913
+Barbados,BRB,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,1602.0,1990.0,1145.0,2017.0,-457.0,-28.52684144818976
+Belarus,BLR,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+Belarus,BLR,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,5.99220991134644,1990.0,4.94764995574951,2017.0,-1.04455995559693,-17.4319653525325
+Belarus,BLR,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,93.2724609375,1990.0,101.341621398926,2017.0,8.069160461425994,8.651171396488591
+Belarus,BLR,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,96.8560180664063,1990.0,107.119422912598,2017.0,10.26340484619169,10.596558738513188
+Belarus,BLR,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,94.5816268920898,1990.0,97.4428024291992,2017.0,2.8611755371094034,3.025085982474989
+Belarus,BLR,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,30300.0,1990.0,22029.0,2017.0,-8271.0,-27.2970297029703
+Belgium,BEL,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,19.6371307373047,1990.0,23.2459602355957,2017.0,3.608829498290998,18.37758044476068
+Belgium,BEL,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,5.33690977096558,1990.0,6.58514022827148,2017.0,1.2482304573059002,23.388637074148328
+Belgium,BEL,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,100.513687133789,1990.0,104.192977905273,2017.0,3.6792907714839913,3.660487319091838
+Belgium,BEL,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,102.881378173828,1990.0,166.808471679688,2017.0,63.927093505860014,62.13670018868627
+Belgium,BEL,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,79.1064071655273,1990.0,88.8949584960938,2017.0,9.788551330566506,12.37390456892362
+Belgium,BEL,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,59830.0,1990.0,68826.0,2017.0,8996.0,15.035935149590507
+Belize,BLZ,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,59.4787788391113,1990.0,37.8370208740234,2017.0,-21.641757965087898,-36.38567971213455
+Belize,BLZ,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,5.44343996047974,1990.0,6.42583990097046,2017.0,0.98239994049072,18.047410233659296
+Belize,BLZ,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,112.731742858887,1990.0,113.138511657715,2017.0,0.4067687988279971,0.3608289808285619
+Belize,BLZ,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,60.7540092468262,1990.0,80.7922134399414,2017.0,20.038204193115206,32.98252155130322
+Belize,BLZ,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,93.9224395751953,1990.0,104.404281616211,2017.0,10.481842041015696,11.160104111886726
+Belize,BLZ,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,1880.0,1990.0,2548.0,2017.0,668.0,35.53191489361702
+Benin,BEN,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,51.3739585876465,1990.0,49.8086891174316,2017.0,-1.5652694702149006,-3.046814988073138
+Benin,BEN,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.74482989311218,1990.0,4.35980987548828,2017.0,1.6149799823761004,58.837160963187486
+Benin,BEN,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,50.9382095336914,1990.0,128.983352661133,2017.0,78.0451431274416,153.21532468827985
+Benin,BEN,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,20.7938899993896,1990.0,56.8119583129883,2017.0,36.018068313598704,173.21467178414434
+Benin,BEN,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,18.653959274292,1990.0,77.9555435180664,2017.0,59.30158424377441,317.9034722430269
+Benin,BEN,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,13693.0,1990.0,49688.0,2017.0,35995.0,262.87154020302347
+Bermuda,BMU,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,30.322790145874,1990.0,30.6948204040527,2017.0,0.3720302581787003,1.2268998215169924
+Bermuda,BMU,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.13619995117188,1990.0,1.7043000459671,2017.0,-1.4318999052047798,-45.65716240986907
+Bermuda,BMU,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,103.650901794434,1990.0,90.3485794067383,2017.0,-13.30232238769571,-12.833773905872603
+Bermuda,BMU,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,79.1746063232422,1990.0,71.5424118041992,2017.0,-7.632194519042997,-9.639699991539482
+Bermuda,BMU,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,96.694206237793,1990.0,81.1955184936523,2017.0,-15.498687744140696,-16.02855884252869
+Bermuda,BMU,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,463.0,1990.0,398.0,2017.0,-65.0,-14.038876889848812
+Bhutan,BTN,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,19.3639106750488,1990.0,56.9765281677246,2017.0,37.6126174926758,194.2408128392227
+Bhutan,BTN,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,5.51379013061523,1990.0,7.36169004440308,2017.0,1.8478999137878498,33.51415033966229
+Bhutan,BTN,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,51.1283912658691,1990.0,96.7488098144531,2017.0,45.620418548584,89.22717382472787
+Bhutan,BTN,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,24.1068706512451,1990.0,84.1976928710938,2017.0,60.090822219848704,249.26844752761411
+Bhutan,BTN,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,23.9755401611328,1990.0,99.226676940918,2017.0,75.2511367797852,313.866283195472
+Bhutan,BTN,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,1817.0,1990.0,2541.0,2017.0,724.0,39.84589983489268
+Bolivia,BOL,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,38.5989189147949,1990.0,41.610050201416,2017.0,3.011131286621101,7.801076743283966
+Bolivia,BOL,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.78421020507813,1990.0,7.28545999526978,2017.0,2.5012497901916495,52.28135226033201
+Bolivia,BOL,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,100.132179260254,1990.0,97.1380386352539,2017.0,-2.9941406250000995,-2.990188216335545
+Bolivia,BOL,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,69.0608596801758,1990.0,86.4050674438477,2017.0,17.344207763671903,25.114381494805848
+Bolivia,BOL,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,66.4578704833984,1990.0,90.4640502929688,2017.0,24.006179809570412,36.12240301254809
+Bolivia,BOL,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,58441.0,1990.0,74246.0,2017.0,15805.0,27.04436953508667
+Bosnia and Herzegovina,BIH,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+Bosnia and Herzegovina,BIH,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,,,,,,
+Bosnia and Herzegovina,BIH,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,,,,,,
+Bosnia and Herzegovina,BIH,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,,,,,,
+Bosnia and Herzegovina,BIH,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+Bosnia and Herzegovina,BIH,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,9505.0,1990.0,9475.0,2017.0,-30.0,-0.31562335612835346
+Botswana,BWA,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,25.5039501190186,1990.0,17.8223304748535,2017.0,-7.6816196441650995,-30.119332920263297
+Botswana,BWA,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,5.73963022232056,1990.0,9.63292026519775,2017.0,3.89329004287719,67.83172246422373
+Botswana,BWA,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,103.837562561035,1990.0,107.630493164063,2017.0,3.7929306030279974,3.6527538873984438
+Botswana,BWA,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,39.7668113708496,1990.0,76.861572265625,2017.0,37.0947608947754,93.2807022138242
+Botswana,BWA,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,88.6948394775391,1990.0,99.66015625,2017.0,10.965316772460895,12.362970424268854
+Botswana,BWA,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,8956.0,1990.0,15035.0,2017.0,6079.0,67.87628405538186
+Brazil,BRA,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,48.9341583251953,1990.0,27.4097499847412,2017.0,-21.524408340454098,-43.98646891484711
+Brazil,BRA,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.47307014465332,1990.0,5.99394989013672,2017.0,1.5208797454833993,34.00080249806307
+Brazil,BRA,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,165.645385742188,1990.0,115.340789794922,2017.0,-50.30459594726601,-30.36884832129314
+Brazil,BRA,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,109.994216918945,1990.0,99.6509704589844,2017.0,-10.343246459960596,-9.403445698952117
+Brazil,BRA,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,112.229606628418,1990.0,100.684646606445,2017.0,-11.544960021972997,-10.28691124276797
+Brazil,BRA,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,807053.0,1990.0,795014.0,2017.0,-12039.0,-1.491723591883061
+Brunei Darussalam,BRN,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,24.9064998626708,1990.0,19.5228004455566,2017.0,-5.383699417114197,-21.61564028184925
+Brunei Darussalam,BRN,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.95995998382568,1990.0,4.42540979385375,2017.0,0.46544981002806995,11.753901855806212
+Brunei Darussalam,BRN,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,113.07543182373,1990.0,108.137702941895,2017.0,-4.937728881835,-4.366756599729181
+Brunei Darussalam,BRN,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,74.578483581543,1990.0,96.0794677734375,2017.0,21.500984191894503,28.830009889361254
+Brunei Darussalam,BRN,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,98.9646911621094,1990.0,103.177001953125,2017.0,4.212310791015597,4.25637744285546
+Brunei Darussalam,BRN,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,2543.0,1990.0,4033.0,2017.0,1490.0,58.59221392056626
+Bulgaria,BGR,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,22.9379997253418,1990.0,19.6963806152344,2017.0,-3.2416191101074006,-14.132091502843966
+Bulgaria,BGR,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.45406007766724,1990.0,4.06197023391724,2017.0,-0.39208984375,-8.802976091767318
+Bulgaria,BGR,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,95.0581893920898,1990.0,97.2181777954102,2017.0,2.1599884033203978,2.2722801866244464
+Bulgaria,BGR,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,99.1099624633789,1990.0,99.0163497924805,2017.0,-0.09361267089840908,-0.09445334108869119
+Bulgaria,BGR,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,99.4928665161133,1990.0,98.1151504516602,2017.0,-1.3777160644530966,-1.384738537239722
+Bulgaria,BGR,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,25503.0,1990.0,14596.0,2017.0,-10907.0,-42.76751754695526
+Burkina Faso,BFA,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,53.8400115966797,1990.0,57.8680305480957,2017.0,4.028018951416001,7.481460036803574
+Burkina Faso,BFA,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.45857000350952,1990.0,4.06224012374878,2017.0,0.60367012023926,17.454327066582344
+Burkina Faso,BFA,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,32.5255012512207,1990.0,87.9926300048828,2017.0,55.467128753662095,170.53427808919741
+Burkina Faso,BFA,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,6.89189004898071,1990.0,33.6666603088379,2017.0,26.77477025985719,388.49677040069867
+Burkina Faso,BFA,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,19.4958896636963,1990.0,61.6484985351563,2017.0,42.152608871460004,216.21279971620507
+Burkina Faso,BFA,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,8572.0,1990.0,64177.0,2017.0,55605.0,648.6817545496967
+Burundi,BDI,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,45.7239418029785,1990.0,45.429988861084,2017.0,-0.29395294189450283,-0.6428862654954969
+Burundi,BDI,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.3572199344635,1990.0,5.41641998291016,2017.0,2.0592000484466597,61.336465547221586
+Burundi,BDI,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,67.3259735107422,1990.0,123.781791687012,2017.0,56.4558181762698,83.85444016975408
+Burundi,BDI,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,5.21858978271484,1990.0,42.4800682067871,2017.0,37.261478424072266,714.0143214071123
+Burundi,BDI,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,40.5684814453125,1990.0,61.7319297790527,2017.0,21.1634483337402,52.167218440919825
+Burundi,BDI,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,9049.0,1990.0,47949.0,2017.0,38900.0,429.88175489004306
+Cabo Verde,CPV,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,43.8118286132813,1990.0,38.3987197875977,2017.0,-5.413108825683601,-12.355359264878182
+Cabo Verde,CPV,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,6.39176988601685,1990.0,4.99245023727416,2017.0,-1.39931964874269,-21.892522316924364
+Cabo Verde,CPV,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,126.092781066895,1990.0,109.887901306152,2017.0,-16.204879760742998,-12.851552343941048
+Cabo Verde,CPV,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,20.921329498291,1990.0,92.8984298706055,2017.0,71.9771003723145,344.0369331126594
+Cabo Verde,CPV,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,60.3995018005371,1990.0,102.162109375,2017.0,41.7626075744629,69.14396034652644
+Cabo Verde,CPV,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,2028.0,1990.0,2988.0,2017.0,960.0,47.337278106508876
+Cambodia,KHM,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,69.4017028808594,1990.0,48.4539184570313,2017.0,-20.947784423828104,-30.183386796414453
+Cambodia,KHM,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,1.26126003265381,1990.0,1.90197002887726,2017.0,0.6407099962234502,50.799199184591295
+Cambodia,KHM,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,111.919387817383,1990.0,116.657127380371,2017.0,4.737739562987997,4.233171441858214
+Cambodia,KHM,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,27.7713394165039,1990.0,45.0513305664063,2017.0,17.2799911499024,62.22239010781482
+Cambodia,KHM,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,45.9789390563965,1990.0,95.169059753418,2017.0,49.1901206970215,106.98402726667149
+Cambodia,KHM,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,36533.0,1990.0,47866.0,2017.0,11333.0,31.02126844223031
+Cameroon,CMR,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,35.0643310546875,1990.0,33.8792495727539,2017.0,-1.1850814819336009,-3.3797350363972676
+Cameroon,CMR,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.28999996185303,1990.0,3.02990007400513,2017.0,-0.26009988784789995,-7.905771758775451
+Cameroon,CMR,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,97.3120803833008,1990.0,117.133857727051,2017.0,19.8217773437502,20.369287415986335
+Cameroon,CMR,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,25.4520702362061,1990.0,58.0781288146973,2017.0,32.6260585784912,128.18626648326605
+Cameroon,CMR,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,55.5764617919922,1990.0,73.8916702270508,2017.0,18.315208435058594,32.954973822564504
+Cameroon,CMR,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,37804.0,1990.0,105388.0,2017.0,67584.0,178.7747328325045
+Canada,CAN,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,0.0,1990.0,0.0,2017.0,0.0,
+Canada,CAN,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,5.99222993850708,1990.0,5.28121995925903,2017.0,-0.7110099792480504,-11.86553230674578
+Canada,CAN,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,103.784622192383,1990.0,100.572311401367,2017.0,-3.2123107910159945,-3.0951702893530926
+Canada,CAN,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,99.2891006469727,1990.0,109.931549072266,2017.0,10.642448425293296,10.718647219026636
+Canada,CAN,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,94.225486755371,1990.0,96.530418395996,2017.0,2.304931640625,2.446187034946376
+Canada,CAN,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,149500.0,1990.0,141045.0,2017.0,-8455.0,-5.655518394648829
+Cayman Islands,CYM,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,49.2591400146484,1990.0,45.9736518859863,2017.0,-3.2854881286621023,-6.669804076329962
+Cayman Islands,CYM,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,,,,,,
+Cayman Islands,CYM,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,,,,,,
+Cayman Islands,CYM,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,,,,,,
+Cayman Islands,CYM,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+Cayman Islands,CYM,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,209.0,1990.0,303.0,2017.0,94.0,44.97607655502392
+Central African Republic,CAF,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,53.2091293334961,1990.0,53.2640190124512,2017.0,0.05488967895509944,0.10315838586846676
+Central African Republic,CAF,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.24566006660461,1990.0,1.22393000125885,2017.0,-1.0217300653457597,-45.497984336097396
+Central African Republic,CAF,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,70.142578125,1990.0,93.4557266235352,2017.0,23.3131484985352,33.23680013156802
+Central African Republic,CAF,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,11.419810295105,1990.0,17.3780097961426,2017.0,5.958199501037599,52.17424236540539
+Central African Republic,CAF,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,30.1721706390381,1990.0,44.422550201416,2017.0,14.250379562377901,47.23021002652068
+Central African Republic,CAF,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,3581.0,1990.0,8267.0,2017.0,4686.0,130.85730242948895
+Chad,TCD,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,64.9264831542969,1990.0,46.7001113891602,2017.0,-18.226371765136705,-28.07232254028295
+Chad,TCD,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.27231001853943,1990.0,2.84970998764038,2017.0,0.5773999691009499,25.41026375758729
+Chad,TCD,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,49.6322708129883,1990.0,101.404067993164,2017.0,51.7717971801757,104.31075655443817
+Chad,TCD,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,6.63768005371094,1990.0,22.4027900695801,2017.0,15.765110015869158,237.5093389301783
+Chad,TCD,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,16.5947208404541,1990.0,38.0570907592773,2017.0,21.4623699188232,129.3325155943744
+Chad,TCD,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,7327.0,1990.0,37336.0,2017.0,30009.0,409.56735362358404
+Channel Islands,CHI,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+Channel Islands,CHI,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,,,,,,
+Channel Islands,CHI,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,,,,,,
+Channel Islands,CHI,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,,,,,,
+Channel Islands,CHI,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+Channel Islands,CHI,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,,,,,,
+Chile,CHL,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,53.8439903259277,1990.0,25.6147499084473,2017.0,-28.229240417480398,-52.42783873669754
+Chile,CHL,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.36159992218018,1990.0,4.92324018478394,2017.0,2.56164026260376,108.47054314936237
+Chile,CHL,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,107.397010803223,1990.0,101.643730163574,2017.0,-5.753280639648992,-5.3570212025643595
+Chile,CHL,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,77.192268371582,1990.0,100.646186828613,2017.0,23.453918457030994,30.383766343191766
+Chile,CHL,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,95.822998046875,1990.0,95.0192413330078,2017.0,-0.8037567138672017,-0.8387931188231217
+Chile,CHL,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,53480.0,1990.0,75405.0,2017.0,21925.0,40.99663425579656
+China,CHN,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,34.2927017211914,1990.0,32.5965385437012,2017.0,-1.6961631774901988,-4.946134577789897
+China,CHN,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,1.65422999858856,1990.0,1.88730001449585,2017.0,0.23307001590729004,14.08933558853077
+China,CHN,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,129.702194213867,1990.0,104.125129699707,2017.0,-25.577064514159986,-19.719839490136735
+China,CHN,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,37.3150405883789,1990.0,94.2992095947266,2017.0,56.984169006347706,152.71099296109142
+China,CHN,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,103.415382385254,1990.0,92.466796875,2017.0,-10.948585510254006,-10.586999010908423
+China,CHN,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,5543800.0,1990.0,5889014.0,2017.0,345214.0,6.227028392077636
+Colombia,COL,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,44.9381217956542,1990.0,36.7236785888672,2017.0,-8.214443206786996,-18.279453787900376
+Colombia,COL,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.93999004364014,1990.0,4.49099016189575,2017.0,0.5510001182556103,13.98480991455866
+Colombia,COL,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,101.686012268066,1990.0,113.562721252441,2017.0,11.876708984375,11.679786353569915
+Colombia,COL,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,51.6307411193848,1990.0,98.0918579101563,2017.0,46.461116790771506,89.98731333981887
+Colombia,COL,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,71.6811981201172,1990.0,100.466423034668,2017.0,28.785224914550795,40.15728764231171
+Colombia,COL,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,141936.0,1990.0,188208.0,2017.0,46272.0,32.60060872505918
+Comoros,COM,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,41.5992202758789,1990.0,54.6120910644531,2017.0,13.012870788574197,31.28152571676841
+Comoros,COM,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.78254008293152,1990.0,4.34328985214233,2017.0,0.5607497692108105,14.824688090977792
+Comoros,COM,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,96.327278137207,1990.0,103.170150756836,2017.0,6.8428726196289915,7.103774498727261
+Comoros,COM,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,24.5987491607666,1990.0,60.3504104614258,2017.0,35.7516613006592,145.33934659442264
+Comoros,COM,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,44.274040222168,1990.0,76.4483184814453,2017.0,32.1742782592773,72.67075265285514
+Comoros,COM,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,1900.0,1990.0,4322.0,2017.0,2422.0,127.47368421052632
+"Congo, Dem. Rep.",COD,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,33.3361892700195,1990.0,61.5935707092285,2017.0,28.257381439209,84.76488182355604
+"Congo, Dem. Rep.",COD,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,1.60178005695343,1990.0,2.2453498840332,2017.0,0.6435698270797701,40.178414276416554
+"Congo, Dem. Rep.",COD,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,61.2785491943359,1990.0,106.973091125488,2017.0,45.694541931152095,74.56857665842999
+"Congo, Dem. Rep.",COD,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,22.8317108154297,1990.0,43.5052108764648,2017.0,20.6735000610351,90.54731039718635
+"Congo, Dem. Rep.",COD,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,52.2804985046387,1990.0,66.7674865722656,2017.0,14.486988067626896,27.710118460981214
+"Congo, Dem. Rep.",COD,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,114967.0,1990.0,383207.0,2017.0,268240.0,233.31912635799839
+"Congo, Rep.",COG,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,47.1688499450684,1990.0,30.9983100891113,2017.0,-16.170539855957102,-34.28224320666899
+"Congo, Rep.",COG,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,6.37546014785767,1990.0,6.2178897857666,2017.0,-0.15757036209106978,-2.4715135603822693
+"Congo, Rep.",COG,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,125.55982208252,1990.0,110.888458251953,2017.0,-14.671363830567003,-11.68475997116716
+"Congo, Rep.",COG,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,48.3990592956542,1990.0,54.5433807373047,2017.0,6.144321441650504,12.695125754649139
+"Congo, Rep.",COG,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,59.9387588500977,1990.0,74.2546081542969,2017.0,14.315849304199205,23.884127030394573
+"Congo, Rep.",COG,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,7639.0,1990.0,16527.0,2017.0,8888.0,116.35030763188898
+Costa Rica,CRI,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,38.7770309448242,1990.0,36.8382682800292,2017.0,-1.938762664795,-4.999770785838822
+Costa Rica,CRI,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.36870002746582,1990.0,7.17601013183594,2017.0,3.8073101043701203,113.02015832007027
+Costa Rica,CRI,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,102.401901245117,1990.0,109.817657470703,2017.0,7.415756225585994,7.241814981379179
+Costa Rica,CRI,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,43.7034111022949,1990.0,123.085731506348,2017.0,79.3823204040531,181.63872888147324
+Costa Rica,CRI,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,75.058708190918,1990.0,99.46630859375,2017.0,24.407600402832003,32.51801288765757
+Costa Rica,CRI,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,13651.0,1990.0,37349.0,2017.0,23698.0,173.59900373599004
+Cote d'Ivoire,CIV,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,49.4724884033203,1990.0,41.4065017700195,2017.0,-8.065986633300795,-16.303984080088146
+Cote d'Ivoire,CIV,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,6.78597021102905,1990.0,5.03422021865845,2017.0,-1.7517499923706001,-25.81428945154415
+Cote d'Ivoire,CIV,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,70.8996429443359,1990.0,93.634521484375,2017.0,22.734878540039105,32.066280725685054
+Cote d'Ivoire,CIV,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,24.2893905639648,1990.0,43.8677291870117,2017.0,19.578338623046896,80.60448684987956
+Cote d'Ivoire,CIV,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,42.1149482727051,1990.0,63.0333595275879,2017.0,20.9184112548828,49.66980160923081
+Cote d'Ivoire,CIV,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,38722.0,1990.0,80155.0,2017.0,41433.0,107.0011879551676
+Croatia,HRV,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+Croatia,HRV,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.80329990386963,1990.0,4.58160018920898,2017.0,0.7783002853393501,20.463815765553388
+Croatia,HRV,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,80.2397384643555,1990.0,97.9641494750977,2017.0,17.7244110107422,22.089318023657107
+Croatia,HRV,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,80.7326278686523,1990.0,98.2164764404297,2017.0,17.4838485717774,21.656483919020562
+Croatia,HRV,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,83.595359802246,1990.0,100.164016723633,2017.0,16.568656921387003,19.820067717373284
+Croatia,HRV,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,10605.0,1990.0,11849.0,2017.0,1244.0,11.730315888731731
+Cuba,CUB,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,22.8593902587891,1990.0,29.0350093841553,2017.0,6.175619125366197,27.015677388821697
+Cuba,CUB,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,7.14496994018555,1990.0,12.83726978302,2017.0,5.69229984283445,79.66863248534008
+Cuba,CUB,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,99.7093963623047,1990.0,97.550926208496,2017.0,-2.1584701538087074,-2.1647610281037872
+Cuba,CUB,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,89.1097183227539,1990.0,100.399871826172,2017.0,11.290153503418097,12.66994634920217
+Cuba,CUB,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,93.8793029785156,1990.0,95.9456176757813,2017.0,2.0663146972657103,2.2010332753946726
+Cuba,CUB,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,71887.0,1990.0,83798.0,2017.0,11911.0,16.569059774368107
+Curacao,CUW,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,27.4655303955078,1990.0,27.4655303955078,2017.0,0.0,0.0
+Curacao,CUW,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.93095016479492,1990.0,4.93095016479492,2017.0,0.0,0.0
+Curacao,CUW,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,175.244186401367,1990.0,175.244186401367,2017.0,0.0,0.0
+Curacao,CUW,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,88.3455429077148,1990.0,88.3455429077148,2017.0,0.0,0.0
+Curacao,CUW,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+Curacao,CUW,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,,,,,,
+Cyprus,CYP,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,35.7987403869629,1990.0,32.8186912536621,2017.0,-2.9800491333007955,-8.324452483769688
+Cyprus,CYP,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.33924007415771,1990.0,6.1383900642395,2017.0,2.79914999008179,83.82595823955089
+Cyprus,CYP,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,82.3734130859375,1990.0,99.3001174926758,2017.0,16.926704406738295,20.54874718992063
+Cyprus,CYP,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,64.1650314331055,1990.0,99.7783126831055,2017.0,35.61328125,55.5026319703875
+Cyprus,CYP,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,78.5998611450195,1990.0,96.8190612792969,2017.0,18.2192001342774,23.179684886036043
+Cyprus,CYP,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,2846.0,1990.0,4513.0,2017.0,1667.0,58.57343640196767
+Czech Republic,CZE,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,42.9338417053223,1990.0,17.7591209411621,2017.0,-25.174720764160202,-58.63607765861636
+Czech Republic,CZE,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.79004001617432,1990.0,4.08901977539063,2017.0,0.29897975921631037,7.888564710145241
+Czech Republic,CZE,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,93.4039306640625,1990.0,99.7469635009766,2017.0,6.343032836914105,6.79096992152024
+Czech Republic,CZE,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,91.4458618164063,1990.0,105.561729431152,2017.0,14.115867614745696,15.436310987025076
+Czech Republic,CZE,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,96.859130859375,1990.0,96.3074798583984,2017.0,-0.5516510009766051,-0.5695394910961157
+Czech Republic,CZE,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,23145.0,1990.0,25979.0,2017.0,2834.0,12.24454525815511
+Denmark,DNK,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,24.8906497955322,1990.0,24.873140335083,2017.0,-0.017509460449200986,-0.07034553373670414
+Denmark,DNK,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,5.60652017593384,1990.0,8.62710952758789,2017.0,3.020589351654051,53.87636638890597
+Denmark,DNK,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,97.740966796875,1990.0,101.516006469727,2017.0,3.775039672852003,3.8622900883488085
+Denmark,DNK,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,109.528022766113,1990.0,130.824737548828,2017.0,21.296714782715014,19.444078551652655
+Denmark,DNK,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,95.4352416992188,1990.0,98.79931640625,2017.0,3.364074707031193,3.5249815970851466
+Denmark,DNK,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,31052.0,1990.0,43538.0,2017.0,12486.0,40.20997037227876
+Djibouti,DJI,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,17.5736694335938,1990.0,34.0865211486816,2017.0,16.5128517150878,93.96359580726981
+Djibouti,DJI,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,7.62947988510132,1990.0,4.48079013824463,2017.0,-3.1486897468566903,-41.27004454137669
+Djibouti,DJI,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,33.8606605529785,1990.0,64.8373718261719,2017.0,30.976711273193402,91.48289125880204
+Djibouti,DJI,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,10.2479095458984,1990.0,48.2695617675781,2017.0,38.021652221679695,371.0186165421161
+Djibouti,DJI,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,28.5225200653076,1990.0,64.3321304321289,2017.0,35.8096103668213,125.54855000479816
+Djibouti,DJI,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,711.0,1990.0,1986.0,2017.0,1275.0,179.32489451476795
+Dominica,DMA,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,47.2502593994141,1990.0,47.2502593994141,2017.0,0.0,0.0
+Dominica,DMA,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,7.16059017181396,1990.0,4.99183988571166,2017.0,-2.1687502861023003,-30.287311996140957
+Dominica,DMA,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,103.48201751709,1990.0,116.012321472168,2017.0,12.530303955077997,12.108677677267574
+Dominica,DMA,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,70.013671875,1990.0,100.487892150879,2017.0,30.474220275879006,43.526099202862305
+Dominica,DMA,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,122.964668273926,1990.0,111.111106872559,2017.0,-11.853561401366989,-9.639810823513175
+Dominica,DMA,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,439.0,1990.0,538.0,2017.0,99.0,22.55125284738041
+Dominican Republic,DOM,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,49.5962905883789,1990.0,58.6790313720703,2017.0,9.0827407836914,18.313346978049225
+Dominican Republic,DOM,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,0.781180024147034,1990.0,2.04456996917725,2017.0,1.263389945030216,161.72839882966852
+Dominican Republic,DOM,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,99.7683334350585,1990.0,103.490539550781,2017.0,3.7222061157225,3.7308492460138862
+Dominican Republic,DOM,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,42.6449317932129,1990.0,77.8207168579102,2017.0,35.1757850646973,82.48526515475788
+Dominican Republic,DOM,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,61.9956817626953,1990.0,94.2195281982422,2017.0,32.2238464355469,51.977566048700155
+Dominican Republic,DOM,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,41329.0,1990.0,71463.0,2017.0,30134.0,72.9124827602894
+Ecuador,ECU,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,34.2403106689453,1990.0,23.2551593780518,2017.0,-10.985151290893498,-32.082510573879304
+Ecuador,ECU,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,1.99764001369476,1990.0,4.96322011947632,2017.0,2.96558010578156,148.45418020519793
+Ecuador,ECU,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,123.520080566406,1990.0,107.622817993164,2017.0,-15.897262573241989,-12.870184750806906
+Ecuador,ECU,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,58.3410415649414,1990.0,107.223258972168,2017.0,48.8822174072266,83.78701527434018
+Ecuador,ECU,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,95.5041809082031,1990.0,108.839736938477,2017.0,13.335556030273906,13.963321713728746
+Ecuador,ECU,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,60608.0,1990.0,79588.8671875,2017.0,18980.8671875,31.317428701656546
+"Egypt, Arab Rep.",EGY,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+"Egypt, Arab Rep.",EGY,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.10541009902954,1990.0,3.75872993469238,2017.0,-0.34668016433716,-8.444470977920334
+"Egypt, Arab Rep.",EGY,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,90.3530502319335,1990.0,103.929733276367,2017.0,13.576683044433508,15.026258670385317
+"Egypt, Arab Rep.",EGY,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,75.2567901611328,1990.0,86.1023178100585,2017.0,10.845527648925696,14.411360922654643
+"Egypt, Arab Rep.",EGY,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,87.1091232299805,1990.0,103.823532104492,2017.0,16.714408874511506,19.1878970362072
+"Egypt, Arab Rep.",EGY,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,261613.0,1990.0,480824.0,2017.0,219211.0,83.79208984263015
+El Salvador,SLV,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,58.1906700134277,1990.0,40.6445007324219,2017.0,-17.546169281005795,-30.152890965092784
+El Salvador,SLV,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.3199200630188,1990.0,3.54505991935729,2017.0,1.2251398563384899,52.80957201362681
+El Salvador,SLV,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,100.014953613281,1990.0,109.179130554199,2017.0,9.164176940918011,9.162806770227906
+El Salvador,SLV,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,39.7454681396484,1990.0,79.425407409668,2017.0,39.679939270019595,99.83512870096645
+El Salvador,SLV,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,66.8140335083008,1990.0,100.436172485352,2017.0,33.62213897705121,50.32197161525068
+El Salvador,SLV,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,22331.0,1990.0,24967.4609375,2017.0,2636.4609375,11.806282466078546
+Equatorial Guinea,GNQ,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,34.9321708679199,1990.0,34.9321708679199,2017.0,0.0,0.0
+Equatorial Guinea,GNQ,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.18485999107361,1990.0,2.18485999107361,2017.0,0.0,0.0
+Equatorial Guinea,GNQ,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,149.673797607422,1990.0,79.1203231811523,2017.0,-70.55347442626969,-47.138160155008386
+Equatorial Guinea,GNQ,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,41.8316688537598,1990.0,27.3713092803955,2017.0,-14.4603595733643,-34.567971992503026
+Equatorial Guinea,GNQ,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,51.9579887390137,1990.0,50.4254302978516,2017.0,-1.5325584411621023,-2.9496107881700007
+Equatorial Guinea,GNQ,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,1352.0,1990.0,4021.0,2017.0,2669.0,197.4112426035503
+Eritrea,ERI,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,42.8935317993164,1990.0,23.0667190551758,2017.0,-19.8268127441406,-46.223315992964196
+Eritrea,ERI,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,1.63855004310608,1990.0,2.12700009346008,2017.0,0.4884500503539999,29.809895181967143
+Eritrea,ERI,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,22.0718002319336,1990.0,49.6370697021484,2017.0,27.5652694702148,124.88908553246698
+Eritrea,ERI,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,13.3972902297974,1990.0,30.5498600006104,2017.0,17.152569770813002,128.03014248854106
+Eritrea,ERI,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,17.8052406311035,1990.0,39.1374092102051,2017.0,21.332168579101598,119.80837002470497
+Eritrea,ERI,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,3035.0,1990.0,8346.0,2017.0,5311.0,174.99176276771004
+Estonia,EST,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,25.4712600708008,1990.0,24.6063098907471,2017.0,-0.8649501800537003,-3.3957887346344653
+Estonia,EST,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,6.07306003570557,1990.0,5.48163986206055,2017.0,-0.5914201736450195,-9.73842132578734
+Estonia,EST,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,93.5188217163085,1990.0,98.4112091064453,2017.0,4.892387390136804,5.231446782956669
+Estonia,EST,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,104.704170227051,1990.0,115.17822265625,2017.0,10.474052429199006,10.003472074212539
+Estonia,EST,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,79.6472625732422,1990.0,101.502563476563,2017.0,21.855300903320796,27.440115576129248
+Estonia,EST,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,6580.0,1990.0,6578.0,2017.0,-2.0,-0.030395136778115502
+Ethiopia,ETH,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,46.0364990234375,1990.0,24.0459899902344,2017.0,-21.9905090332031,-47.767552919277335
+Ethiopia,ETH,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.35420989990234,1990.0,4.50051021575928,2017.0,2.14630031585694,91.16860463232165
+Ethiopia,ETH,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,35.3172607421875,1990.0,102.122062683105,2017.0,66.8048019409175,189.1562384426865
+Ethiopia,ETH,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,13.8903102874756,1990.0,35.1732482910156,2017.0,21.282938003539996,153.2214728329724
+Ethiopia,ETH,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,14.1036500930786,1990.0,54.3953018188477,2017.0,40.2916517257691,285.68244007657506
+Ethiopia,ETH,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,65450.0,1990.0,259636.0,2017.0,194186.0,296.6936592818946
+Faroe Islands,FRO,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+Faroe Islands,FRO,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,,,,,,
+Faroe Islands,FRO,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,,,,,,
+Faroe Islands,FRO,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,,,,,,
+Faroe Islands,FRO,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+Faroe Islands,FRO,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,,,,,,
+Fiji,FJI,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,39.0849914550781,1990.0,38.6038513183594,2017.0,-0.48114013671869316,-1.2310099575477362
+Fiji,FJI,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,5.512619972229,1990.0,3.88288998603821,2017.0,-1.6297299861907906,-29.563619375195522
+Fiji,FJI,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,108.715370178223,1990.0,105.544822692871,2017.0,-3.170547485352003,-2.9163746397168615
+Fiji,FJI,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,76.6991729736328,1990.0,88.6682510375977,2017.0,11.9690780639649,15.605224411063157
+Fiji,FJI,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,105.126792907715,1990.0,106.367317199707,2017.0,1.2405242919920028,1.180026763568247
+Fiji,FJI,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,4644.0,1990.0,3671.0,2017.0,-973.0,-20.95176571920758
+Finland,FIN,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,30.8205890655518,1990.0,19.1145000457764,2017.0,-11.706089019775401,-37.9813928762942
+Finland,FIN,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,5.33590984344482,1990.0,7.16809988021851,2017.0,1.8321900367736905,34.33697514632001
+Finland,FIN,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,98.6158065795898,1990.0,101.533729553223,2017.0,2.917922973633196,2.958879590239147
+Finland,FIN,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,114.574981689453,1990.0,149.456085205078,2017.0,34.881103515625014,30.443909308375595
+Finland,FIN,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,101.788070678711,1990.0,100.169921875,2017.0,-1.6181488037109943,-1.5897234252711212
+Finland,FIN,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,23294.0,1990.0,26385.0,2017.0,3091.0,13.269511462179102
+France,FRA,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,20.1632995605469,1990.0,20.6904296875,2017.0,0.5271301269531001,2.61430489275934
+France,FRA,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.48646020889282,1990.0,5.49299001693726,2017.0,1.0065298080444407,22.434831942771975
+France,FRA,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,112.324546813965,1990.0,105.358360290527,2017.0,-6.966186523437997,-6.201838085290108
+France,FRA,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,96.8509216308594,1990.0,110.644012451172,2017.0,13.7930908203126,14.241568988764003
+France,FRA,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,105.219772338867,1990.0,97.4397277832031,2017.0,-7.780044555663906,-7.394089896533681
+France,FRA,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,219182.0,1990.0,229471.0,2017.0,10289.0,4.694272339881925
+French Polynesia,PYF,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+French Polynesia,PYF,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,,,,,,
+French Polynesia,PYF,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,,,,,,
+French Polynesia,PYF,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,,,,,,
+French Polynesia,PYF,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+French Polynesia,PYF,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,1936.0,1990.0,2052.0,2017.0,116.0,5.991735537190083
+Gabon,GAB,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,50.4635314941406,1990.0,29.2354907989502,2017.0,-21.228040695190398,-42.066102126949275
+Gabon,GAB,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.80601000785828,1990.0,2.66616988182068,2017.0,-0.13984012603759988,-4.983593274648885
+Gabon,GAB,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,135.968963623047,1990.0,141.993423461914,2017.0,6.024459838867017,4.430761019528622
+Gabon,GAB,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,38.9673690795898,1990.0,53.303638458252,2017.0,14.336269378662202,36.79044728265015
+Gabon,GAB,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,59.7059516906738,1990.0,71.9046936035156,2017.0,12.198741912841797,20.43136666850462
+Gabon,GAB,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,4782.0,1990.0,12961.0,2017.0,8179.0,171.03722291928062
+"Gambia, The",GMB,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,39.177490234375,1990.0,51.809211730957,2017.0,12.631721496582003,32.24229377893818
+"Gambia, The",GMB,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.82583999633789,1990.0,2.76770997047424,2017.0,-0.058130025863650125,-2.05708836802448
+"Gambia, The",GMB,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,57.1828804016113,1990.0,93.4370193481445,2017.0,36.2541389465332,63.40033711472785
+"Gambia, The",GMB,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,17.186149597168,1990.0,57.451831817627,2017.0,40.265682220459,234.29146821283416
+"Gambia, The",GMB,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,41.7557411193848,1990.0,70.5433883666992,2017.0,28.787647247314403,68.94296802206667
+"Gambia, The",GMB,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,2504.0,1990.0,7325.0,2017.0,4821.0,192.53194888178913
+Georgia,GEO,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,35.9998092651367,1990.0,34.3392486572266,2017.0,-1.6605606079100994,-4.612692794231653
+Georgia,GEO,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,6.91565990447998,1990.0,1.98330998420715,2017.0,-4.93234992027283,-71.32146445023479
+Georgia,GEO,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,97.411521911621,1990.0,116.784652709961,2017.0,19.37313079834,19.887925389274535
+Georgia,GEO,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,94.6380996704102,1990.0,103.681617736816,2017.0,9.043518066405795,9.555895667707881
+Georgia,GEO,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,84.2870712280273,1990.0,120.68480682373,2017.0,36.3977355957027,43.1830588789039
+Georgia,GEO,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,20473.0,1990.0,32001.0,2017.0,11528.0,56.30830850388316
+Germany,DEU,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,1.25800001621246,1990.0,12.793399810791,2017.0,11.53539979457854,916.9634058756926
+Germany,DEU,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.41016006469727,1990.0,4.95218992233276,2017.0,0.54202985763549,12.290480383566237
+Germany,DEU,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,101.876052856445,1990.0,104.969528198242,2017.0,3.093475341797003,3.036508831134303
+Germany,DEU,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,99.4825210571289,1990.0,102.665397644043,2017.0,3.182876586914091,3.199432978871022
+Germany,DEU,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,100.360900878906,1990.0,102.582511901855,2017.0,2.2216110229490056,2.2136220415454115
+Germany,DEU,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,215414.0,1990.0,235570.796875,2017.0,20156.796875,9.357236240448625
+Ghana,GHA,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,41.5352897644042,1990.0,21.6972808837891,2017.0,-19.838008880615096,-47.76181650143753
+Ghana,GHA,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.11037015914916,1990.0,6.17854976654053,2017.0,2.06817960739137,50.316140087477656
+Ghana,GHA,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,71.6001510620117,1990.0,108.001403808594,2017.0,36.4012527465823,50.83963121119085
+Ghana,GHA,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,35.9474411010742,1990.0,62.1050415039063,2017.0,26.157600402832102,72.76623760029041
+Ghana,GHA,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,65.6092071533203,1990.0,101.100471496582,2017.0,35.491264343261705,54.09494472372326
+Ghana,GHA,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,62859.0,1990.0,142520.0,2017.0,79661.0,126.72966480535803
+Greece,GRC,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,26.9871006011963,1990.0,27.006010055542,2017.0,0.018909454345699572,0.07006849170325968
+Greece,GRC,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.04608011245728,1990.0,3.96878004074097,2017.0,1.92269992828369,93.96992407958973
+Greece,GRC,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,99.3855972290039,1990.0,97.620018005371,2017.0,-1.765579223632912,-1.776494052316928
+Greece,GRC,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,94.929557800293,1990.0,106.499359130859,2017.0,11.569801330566008,12.187775439664271
+Greece,GRC,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,100.31714630127,1990.0,95.9330902099609,2017.0,-4.384056091309105,-4.370196175779379
+Greece,GRC,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,42485.0,1990.0,66551.0,2017.0,24066.0,56.64587501471108
+Greenland,GRL,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+Greenland,GRL,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,,,,,,
+Greenland,GRL,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,,,,,,
+Greenland,GRL,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,,,,,,
+Greenland,GRL,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+Greenland,GRL,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,,,,,,
+Grenada,GRD,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,36.3840217590332,1990.0,36.3840217590332,2017.0,0.0,0.0
+Grenada,GRD,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.92673993110657,1990.0,3.92673993110657,2017.0,0.0,0.0
+Grenada,GRD,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,117.222831726074,1990.0,104.86701965332,2017.0,-12.355812072754006,-10.540448384344641
+Grenada,GRD,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,91.1875915527344,1990.0,99.1796264648438,2017.0,7.992034912109403,8.764388636679318
+Grenada,GRD,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,92.9445571899414,1990.0,89.4354400634766,2017.0,-3.509117126464801,-3.775495018275866
+Grenada,GRD,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,763.0,1990.0,791.0,2017.0,28.0,3.669724770642202
+Guam,GUM,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+Guam,GUM,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,,,,,,
+Guam,GUM,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,,,,,,
+Guam,GUM,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,,,,,,
+Guam,GUM,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+Guam,GUM,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,,,,,,
+Guatemala,GTM,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,52.981128692627,1990.0,49.9158897399902,2017.0,-3.065238952636804,-5.785529731576615
+Guatemala,GTM,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,1.66575002670288,1990.0,2.95595002174377,2017.0,1.29019999504089,77.45459849066675
+Guatemala,GTM,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,74.1594696044922,1990.0,101.791412353516,2017.0,27.631942749023793,37.26016771208136
+Guatemala,GTM,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,22.6284408569336,1990.0,65.6267013549805,2017.0,42.998260498046896,190.0186617801012
+Guatemala,GTM,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,45.7510681152344,1990.0,84.7096633911133,2017.0,38.95859527587889,85.15341145206243
+Guatemala,GTM,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,36757.0,1990.0,116719.0,2017.0,79962.0,217.54223685284435
+Guinea,GIN,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,32.4954681396484,1990.0,38.9059982299805,2017.0,6.410530090332095,19.727458803741538
+Guinea,GIN,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.01899003982544,1990.0,3.20816993713379,2017.0,1.18917989730835,58.89974065504382
+Guinea,GIN,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,34.8156890869141,1990.0,91.2581787109375,2017.0,56.4424896240234,162.11797354669622
+Guinea,GIN,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,11.1051301956177,1990.0,38.8232688903809,2017.0,27.7181386947632,249.597602247845
+Guinea,GIN,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,19.9277095794678,1990.0,61.7558517456055,2017.0,41.828142166137695,209.89939661321975
+Guinea,GIN,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,8113.0,1990.0,37938.0,2017.0,29825.0,367.61986934549486
+Guinea-Bissau,GNB,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,46.7200317382813,1990.0,64.4177474975585,2017.0,17.697715759277195,37.88035902547579
+Guinea-Bissau,GNB,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,5.25344991683959,1990.0,2.17313003540039,2017.0,-3.0803198814391997,-58.63422951012507
+Guinea-Bissau,GNB,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,45.8836212158203,1990.0,113.654983520508,2017.0,67.7713623046877,147.70273249775823
+Guinea-Bissau,GNB,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,17.1875801086426,1990.0,32.6411781311035,2017.0,15.453598022460902,89.91142397463048
+Guinea-Bissau,GNB,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,26.8962306976318,1990.0,62.1748199462891,2017.0,35.2785892486573,131.1655512077518
+Guinea-Bissau,GNB,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,3405.0,1990.0,5371.0,2017.0,1966.0,57.73861967694567
+Guyana,GUY,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,43.0802993774414,1990.0,30.5553703308105,2017.0,-12.524929046630898,-29.073449413374924
+Guyana,GUY,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.72445011138916,1990.0,3.19215989112854,2017.0,-0.5322902202606201,-14.291780110919097
+Guyana,GUY,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,107.188690185547,1990.0,85.4383697509766,2017.0,-21.750320434570398,-20.2916188237023
+Guyana,GUY,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,82.9159469604492,1990.0,89.3368377685547,2017.0,6.420890808105497,7.743855124959562
+Guyana,GUY,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,97.4578323364258,1990.0,84.0708923339844,2017.0,-13.386940002441392,-13.73613559988641
+Guyana,GUY,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,3509.0,1990.0,4079.0,2017.0,570.0,16.243944143630664
+Haiti,HTI,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,58.9214210510254,1990.0,58.9214210510254,2017.0,0.0,0.0
+Haiti,HTI,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,1.07398998737335,1990.0,1.07398998737335,2017.0,0.0,0.0
+Haiti,HTI,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,74.7760162353516,1990.0,111.877838134766,2017.0,37.10182189941439,49.617275387658175
+Haiti,HTI,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,,,,,,
+Haiti,HTI,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,48.1699485778809,1990.0,48.1699485778809,2017.0,0.0,0.0
+Haiti,HTI,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,25605.0,1990.0,44472.0,2017.0,18867.0,73.68482718219099
+Honduras,HND,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,48.4551887512207,1990.0,48.9004211425781,2017.0,0.44523239135739345,0.9188538995138616
+Honduras,HND,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.39836001396179,1990.0,5.86775016784667,2017.0,2.4693901538848797,72.6641716516102
+Honduras,HND,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,106.978309631348,1990.0,110.713768005371,2017.0,3.735458374022997,3.491790426391623
+Honduras,HND,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,32.9560890197754,1990.0,70.7755889892578,2017.0,37.8194999694824,114.75724545709505
+Honduras,HND,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,64.0622100830078,1990.0,92.4693298339844,2017.0,28.407119750976605,44.34302175052724
+Honduras,HND,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,25539.0,1990.0,39599.0,2017.0,14060.0,55.05305611026273
+"Hong Kong SAR, China",HKG,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,27.0934104919434,1990.0,20.9402599334717,2017.0,-6.1531505584716975,-22.71087488340171
+"Hong Kong SAR, China",HKG,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.46406006813049,1990.0,3.26212000846863,2017.0,0.7980599403381401,32.38800671542221
+"Hong Kong SAR, China",HKG,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,,,,,,
+"Hong Kong SAR, China",HKG,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,79.287841796875,1990.0,100.841903686523,2017.0,21.554061889647997,27.184573827683018
+"Hong Kong SAR, China",HKG,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+"Hong Kong SAR, China",HKG,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,19518.0,1990.0,24339.0,2017.0,4821.0,24.700276667691362
+Hungary,HUN,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,42.9957809448242,1990.0,12.5329103469849,2017.0,-30.4628705978393,-70.85083682264504
+Hungary,HUN,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,5.89597988128662,1990.0,4.65934991836548,2017.0,-1.23662996292114,-20.974121143901915
+Hungary,HUN,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,85.3070678710938,1990.0,101.616149902344,2017.0,16.3090820312502,19.118090022616414
+Hungary,HUN,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,87.3765716552734,1990.0,105.203773498535,2017.0,17.827201843261605,20.402725244926327
+Hungary,HUN,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,81.8739471435547,1990.0,96.8578567504883,2017.0,14.983909606933594,18.301193639365366
+Hungary,HUN,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,52584.0,1990.0,36029.0,2017.0,-16555.0,-31.48296059637913
+Iceland,ISL,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,60.5256614685059,1990.0,28.59840965271,2017.0,-31.927251815795902,-52.749942819557646
+Iceland,ISL,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.22525978088379,1990.0,7.8058500289917,2017.0,3.58059024810791,84.74248765265185
+Iceland,ISL,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,101.527389526367,1990.0,99.131950378418,2017.0,-2.3954391479490056,-2.3594018905872707
+Iceland,ISL,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,98.2253875732422,1990.0,118.556411743164,2017.0,20.331024169921804,20.698339474366424
+Iceland,ISL,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,89.6113128662109,1990.0,97.2935104370117,2017.0,7.68219757080081,8.57279881868295
+Iceland,ISL,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,3034.0,1990.0,3001.0,2017.0,-33.0,-1.087673038892551
+India,IND,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,30.046329498291,1990.0,28.401159286499,2017.0,-1.6451702117920028,-5.475444885491182
+India,IND,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.30847001075745,1990.0,3.84236001968384,2017.0,0.5338900089263903,16.137066595449056
+India,IND,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,91.8339080810547,1990.0,108.600616455078,2017.0,16.766708374023295,18.257644397780194
+India,IND,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,45.5136985778809,1990.0,73.9692001342773,2017.0,28.4555015563964,62.520740887943184
+India,IND,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,71.8666076660156,1990.0,97.5457229614258,2017.0,25.6791152954102,35.73163688864833
+India,IND,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,2774647.0,1990.0,4398590.0,2017.0,1623943.0,58.52791364090639
+Indonesia,IDN,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,48.3824691772461,1990.0,42.5999298095703,2017.0,-5.782539367675803,-11.951724386971316
+Indonesia,IDN,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,0.997870028018951,1990.0,3.59180998802185,2017.0,2.593939960002899,259.9476772694125
+Indonesia,IDN,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,114.398017883301,1990.0,105.852752685547,2017.0,-8.545265197753992,-7.469766833260288
+Indonesia,IDN,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,46.585880279541,1990.0,85.8420791625977,2017.0,39.2561988830567,84.26630268119403
+Indonesia,IDN,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,93.3273468017578,1990.0,101.997009277344,2017.0,8.669662475586208,9.289519923888928
+Indonesia,IDN,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,1286286.0,1990.0,1801909.0,2017.0,515623.0,40.086186120349595
+"Iran, Islamic Rep.",IRN,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,38.7398490905762,1990.0,26.7479305267333,2017.0,-11.991918563842901,-30.954995554590425
+"Iran, Islamic Rep.",IRN,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.77836990356445,1990.0,2.92898988723755,2017.0,-0.8493800163268999,-22.48006516052357
+"Iran, Islamic Rep.",IRN,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,106.339279174805,1990.0,108.916007995605,2017.0,2.5767288207999997,2.423120450689029
+"Iran, Islamic Rep.",IRN,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,53.2175598144531,1990.0,89.167236328125,2017.0,35.9496765136719,67.55228281607249
+"Iran, Islamic Rep.",IRN,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,85.3395690917969,1990.0,101.773010253906,2017.0,16.43344116210909,19.25653168512275
+"Iran, Islamic Rep.",IRN,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,298759.0,1990.0,286477.0,2017.0,-12282.0,-4.111005860911303
+Iraq,IRQ,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+Iraq,IRQ,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,,,,,,
+Iraq,IRQ,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,108.272529602051,1990.0,108.121803283691,2017.0,-0.15072631836000028,-0.13921011997593993
+Iraq,IRQ,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,41.1824913024902,1990.0,53.459659576416,2017.0,12.277168273925803,29.811621117694337
+Iraq,IRQ,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,59.3577499389648,1990.0,66.658073425293,2017.0,7.300323486328196,12.298854814804852
+Iraq,IRQ,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,134081.0,1990.0,286890.0,2017.0,152809.0,113.96767625539785
+Ireland,IRL,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,28.5231494903564,1990.0,36.2492980957031,2017.0,7.7261486053466975,27.087291352446503
+Ireland,IRL,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.59602022171021,1990.0,5.3245701789856,2017.0,0.7285499572753897,15.851757001284284
+Ireland,IRL,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,99.6195831298828,1990.0,101.428001403809,2017.0,1.8084182739262076,1.8153240729469968
+Ireland,IRL,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,94.4415893554688,1990.0,127.481918334961,2017.0,33.04032897949219,34.98493534996712
+Ireland,IRL,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,98.8402709960938,1990.0,96.5778884887695,2017.0,-2.262382507324304,-2.2889278676843308
+Ireland,IRL,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,15513.0,1990.0,32267.0,2017.0,16754.0,107.9997421517437
+Isle of Man,IMN,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+Isle of Man,IMN,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,,,,,,
+Isle of Man,IMN,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,,,,,,
+Isle of Man,IMN,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,,,,,,
+Isle of Man,IMN,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+Isle of Man,IMN,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,,,,,,
+Israel,ISR,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,35.9888381958008,1990.0,38.0988502502441,2017.0,2.1100120544432954,5.8629624078542575
+Israel,ISR,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,6.08679008483887,1990.0,5.75726985931396,2017.0,-0.32952022552490945,-5.413694589956154
+Israel,ISR,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,95.3701705932617,1990.0,104.776382446289,2017.0,9.406211853027301,9.86284473909905
+Israel,ISR,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,88.7309265136719,1990.0,102.478813171387,2017.0,13.7478866577151,15.493906350224787
+Israel,ISR,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,104.479110717773,1990.0,108.733032226563,2017.0,4.25392150879,4.0715521787709505
+Israel,ISR,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,37627.0,1990.0,71134.9921875,2017.0,33507.9921875,89.05305282775666
+Italy,ITA,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,21.2271900177002,1990.0,24.4886207580566,2017.0,3.2614307403564027,15.364401683109602
+Italy,ITA,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.74756002426147,1990.0,4.07985019683838,2017.0,-0.6677098274230904,-14.064273521785736
+Italy,ITA,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,98.4384613037109,1990.0,101.037353515625,2017.0,2.598892211914105,2.640118686837025
+Italy,ITA,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,80.3881225585938,1990.0,102.902458190918,2017.0,22.51433563232419,28.007042478089716
+Italy,ITA,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,100.814193725586,1990.0,100.265869140625,2017.0,-0.5483245849609943,-0.5438962160958423
+Italy,ITA,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,257961.0,1990.0,237483.0,2017.0,-20478.0,-7.938409294428228
+Jamaica,JAM,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,26.1608390808105,1990.0,36.6830215454102,2017.0,10.522182464599698,40.221119942280176
+Jamaica,JAM,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.7791600227356,1990.0,5.46195983886719,2017.0,0.68279981613159,14.287025604569612
+Jamaica,JAM,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,103.626373291016,1990.0,97.2451400756835,2017.0,-6.3812332153325,-6.157923907470887
+Jamaica,JAM,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,69.516990661621,1990.0,82.107322692871,2017.0,12.59033203125,18.11115802255359
+Jamaica,JAM,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,96.3820419311523,1990.0,87.3959808349609,2017.0,-8.986061096191406,-9.32337696540019
+Jamaica,JAM,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,10076.0,1990.0,11806.0,2017.0,1730.0,17.169511710996428
+Japan,JPN,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,38.0953102111816,1990.0,33.0818786621094,2017.0,-5.013431549072195,-13.160232903420932
+Japan,JPN,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.47862005233765,1990.0,3.59184002876282,2017.0,0.11321997642517001,3.2547382215279765
+Japan,JPN,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,101.64794921875,1990.0,101.224647521973,2017.0,-0.4233016967770027,-0.41643899363482717
+Japan,JPN,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,95.6246337890625,1990.0,101.745613098145,2017.0,6.1209793090825,6.401048627893009
+Japan,JPN,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,103.39714050293,1990.0,102.055702209473,2017.0,-1.3414382934570028,-1.2973649821766493
+Japan,JPN,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,454109.0,1990.0,408247.0,2017.0,-45862.0,-10.099337383755882
+Jordan,JOR,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,36.9264793395996,1990.0,41.6684112548828,2017.0,4.741931915283196,12.841548937480193
+Jordan,JOR,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,7.475989818573,1990.0,4.94513988494873,2017.0,-2.5308499336242702,-33.853041470665794
+Jordan,JOR,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,101.577682495117,1990.0,97.3428726196289,2017.0,-4.2348098754880965,-4.169035728583068
+Jordan,JOR,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,76.390281677246,1990.0,82.4455413818359,2017.0,6.055259704589901,7.926740904260275
+Jordan,JOR,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,95.6996994018555,1990.0,91.0019989013672,2017.0,-4.6977005004882955,-4.908793371191313
+Jordan,JOR,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,23340.0,1990.0,57946.0,2017.0,34606.0,148.26906598114823
+Kazakhstan,KAZ,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+Kazakhstan,KAZ,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.05118989944458,1990.0,2.78749990463257,2017.0,-1.26368999481201,-31.19305750108783
+Kazakhstan,KAZ,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,114.500648498535,1990.0,108.959716796875,2017.0,-5.54093170166,-4.839214252774205
+Kazakhstan,KAZ,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,100.034812927246,1990.0,112.0078125,2017.0,11.972999572754006,11.968832871674195
+Kazakhstan,KAZ,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,105.624458312988,1990.0,109.182708740234,2017.0,3.5582504272460085,3.368775077361483
+Kazakhstan,KAZ,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,56274.0,1990.0,68663.0,2017.0,12389.0,22.015495610761633
+Kenya,KEN,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,51.4988288879395,1990.0,36.3388900756836,2017.0,-15.159938812255902,-29.437443801379732
+Kenya,KEN,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,6.58519983291625,1990.0,5.2739200592041,2017.0,-1.3112797737121502,-19.912528199337135
+Kenya,KEN,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,100.427436828613,1990.0,108.973930358887,2017.0,8.546493530274006,8.510118151137565
+Kenya,KEN,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,38.5206108093262,1990.0,60.4318199157715,2017.0,21.9112091064453,56.88178002914842
+Kenya,KEN,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,88.9904937744141,1990.0,105.187927246094,2017.0,16.1974334716799,18.201307560714834
+Kenya,KEN,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,169410.0,1990.0,266511.0,2017.0,97101.0,57.317159553745356
+Kiribati,KIR,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,43.0442314147949,1990.0,34.3345413208008,2017.0,-8.709690093994098,-20.234279502085514
+Kiribati,KIR,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,10.8710098266602,1990.0,11.9881200790405,2017.0,1.1171102523803,10.276048593394561
+Kiribati,KIR,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,117.203193664551,1990.0,104.463409423828,2017.0,-12.739784240722997,-10.869826872794714
+Kiribati,KIR,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,37.3507499694824,1990.0,87.1360931396484,2017.0,49.785343170165994,133.2914150608578
+Kiribati,KIR,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,102.245788574219,1990.0,112.361183166504,2017.0,10.115394592285,9.89321392434893
+Kiribati,KIR,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,514.0,1990.0,614.0,2017.0,100.0,19.45525291828794
+"Korea, Dem. People’s Rep.",PRK,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+"Korea, Dem. People’s Rep.",PRK,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,,,,,,
+"Korea, Dem. People’s Rep.",PRK,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,99.7893905639648,1990.0,76.8337783813477,2017.0,-22.955612182617102,-23.004060905555487
+"Korea, Dem. People’s Rep.",PRK,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,102.055442810059,1990.0,93.3960876464844,2017.0,-8.659355163574602,-8.484951831222764
+"Korea, Dem. People’s Rep.",PRK,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,97.4287567138672,1990.0,97.4287567138672,2017.0,0.0,0.0
+"Korea, Dem. People’s Rep.",PRK,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,70298.0,1990.0,66113.0,2017.0,-4185.0,-5.953227687843182
+"Korea, Rep.",KOR,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,43.6447715759277,1990.0,31.5471000671387,2017.0,-12.097671508788999,-27.7184896883765
+"Korea, Rep.",KOR,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.01701998710632,1990.0,5.05211019515991,2017.0,2.03509020805359,67.45365349751901
+"Korea, Rep.",KOR,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,105.953536987305,1990.0,99.0090637207031,2017.0,-6.944473266601904,-6.554262806190196
+"Korea, Rep.",KOR,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,92.6181411743164,1990.0,98.8820877075195,2017.0,6.263946533203097,6.763196123115596
+"Korea, Rep.",KOR,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,99.2278137207031,1990.0,101.584106445313,2017.0,2.356292724609901,2.3746292861416527
+"Korea, Rep.",KOR,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,134898.0,1990.0,165786.0,2017.0,30888.0,22.897300182360006
+Kosovo,XKX,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+Kosovo,XKX,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,,,,,,
+Kosovo,XKX,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,,,,,,
+Kosovo,XKX,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,,,,,,
+Kosovo,XKX,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+Kosovo,XKX,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,,,,,,
+Kuwait,KWT,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,26.8997192382813,1990.0,20.4151706695557,2017.0,-6.4845485687256,-24.106380112314945
+Kuwait,KWT,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,14.1988296508789,1990.0,3.76001000404358,2017.0,-10.43881964683532,-73.51887376287497
+Kuwait,KWT,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,93.4515914916992,1990.0,102.68350982666,2017.0,9.231918334960795,9.878824092343914
+Kuwait,KWT,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,78.0645904541016,1990.0,94.9726486206055,2017.0,16.908058166503892,21.659062153723916
+Kuwait,KWT,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,57.0818290710449,1990.0,103.046409606934,2017.0,45.964580535889105,80.52401488165508
+Kuwait,KWT,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,10310.0,1990.0,29810.0,2017.0,19500.0,189.1367604267701
+Kyrgyz Republic,KGZ,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+Kyrgyz Republic,KGZ,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,5.58819007873535,1990.0,5.52737998962402,2017.0,-0.0608100891113299,-1.088189346721214
+Kyrgyz Republic,KGZ,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,109.872398376465,1990.0,107.358581542969,2017.0,-2.5138168334959943,-2.2879420770289305
+Kyrgyz Republic,KGZ,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,102.249519348145,1990.0,92.0504684448242,2017.0,-10.199050903320796,-9.974668798778882
+Kyrgyz Republic,KGZ,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,103.344017028809,1990.0,112.008041381836,2017.0,8.664024353026988,8.383672903494487
+Kyrgyz Republic,KGZ,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,16514.0,1990.0,17226.0,2017.0,712.0,4.311493278430422
+Lao PDR,LAO,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,34.5550003051758,1990.0,40.6427803039551,2017.0,6.087779998779297,17.6176528578049
+Lao PDR,LAO,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.33342003822327,1990.0,3.32011008262634,2017.0,0.98669004440307,42.28514490491659
+Lao PDR,LAO,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,98.5220031738281,1990.0,111.345809936523,2017.0,12.8238067626949,13.016185572342772
+Lao PDR,LAO,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,23.2434005737305,1990.0,61.6972389221191,2017.0,38.4538383483886,165.43981258856252
+Lao PDR,LAO,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,43.4526596069336,1990.0,100.20915222168,2017.0,56.7564926147464,130.6168440048488
+Lao PDR,LAO,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,19970.0,1990.0,35206.0,2017.0,15236.0,76.29444166249374
+Latvia,LVA,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,18.7779998779297,1990.0,30.0486507415771,2017.0,11.270650863647397,60.02050770537123
+Latvia,LVA,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,5.26215982437134,1990.0,5.28524017333984,2017.0,0.02308034896850053,0.4386098054567906
+Latvia,LVA,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,94.4744491577148,1990.0,99.6652374267578,2017.0,5.190788269042997,5.494383206593289
+Latvia,LVA,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,95.1936416625977,1990.0,119.492446899414,2017.0,24.298805236816307,25.525659920586367
+Latvia,LVA,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,73.8404388427734,1990.0,103.196296691895,2017.0,29.355857849121605,39.75580089878434
+Latvia,LVA,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,9309.0,1990.0,10537.0,2017.0,1228.0,13.191535073584703
+Lebanon,LBN,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,55.4911499023438,1990.0,80.9329528808594,2017.0,25.441802978515604,45.848397489130086
+Lebanon,LBN,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,1.75932002067566,1990.0,2.57119011878967,2017.0,0.8118700981140101,46.14681175527205
+Lebanon,LBN,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,111.642517089844,1990.0,92.4138488769531,2017.0,-19.22866821289091,-17.22342769951764
+Lebanon,LBN,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,68.8962783813477,1990.0,61.2057495117188,2017.0,-7.690528869628899,-11.162473576672841
+Lebanon,LBN,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,97.8502578735352,1990.0,71.9206085205078,2017.0,-25.9296493530274,-26.499316319165665
+Lebanon,LBN,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,29034.0,1990.0,39017.0,2017.0,9983.0,34.38382585933733
+Lesotho,LSO,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,54.1874694824219,1990.0,35.9942092895508,2017.0,-18.1932601928711,-33.57466286328962
+Lesotho,LSO,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,8.57703018188477,1990.0,11.3611402511597,2017.0,2.7841100692749308,32.46007079647624
+Lesotho,LSO,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,110.15453338623,1990.0,105.520278930664,2017.0,-4.634254455565994,-4.207048328476062
+Lesotho,LSO,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,25.2908992767333,1990.0,53.772159576416,2017.0,28.481260299682702,112.61466026984822
+Lesotho,LSO,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,59.5778999328613,1990.0,76.7777481079102,2017.0,17.1998481750489,28.869510664913523
+Lesotho,LSO,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,6448.0,1990.0,10930.0,2017.0,4482.0,69.50992555831266
+Liberia,LBR,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,30.7219905853271,1990.0,30.7219905853271,2017.0,0.0,0.0
+Liberia,LBR,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.16142010688782,1990.0,2.75756001472473,2017.0,-0.40386009216308993,-12.774641727722159
+Liberia,LBR,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,76.2216033935547,1990.0,93.9163284301758,2017.0,17.694725036621094,23.21484231348164
+Liberia,LBR,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,31.497859954834,1990.0,37.2998008728027,2017.0,5.8019409179687,18.420111481504865
+Liberia,LBR,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,64.6991119384766,1990.0,58.8330612182617,2017.0,-5.866050720214908,-9.06666342776548
+Liberia,LBR,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,6586.0,1990.0,22479.0,2017.0,15893.0,241.31491041603402
+Libya,LBY,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+Libya,LBY,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.26416993141174,1990.0,2.26416993141174,2017.0,0.0,0.0
+Libya,LBY,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,109.788696289063,1990.0,114.539558410645,2017.0,4.750862121582003,4.327278018743791
+Libya,LBY,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,108.267471313477,1990.0,101.563491821289,2017.0,-6.703979492187997,-6.192053264805026
+Libya,LBY,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+Libya,LBY,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,,,,,,
+Liechtenstein,LIE,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,29.2671794891357,1990.0,38.6201400756836,2017.0,9.352960586547901,31.95716413335909
+Liechtenstein,LIE,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.46013998985291,1990.0,2.55604004859924,2017.0,0.0959000587463299,3.8981545416878363
+Liechtenstein,LIE,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,106.124397277832,1990.0,105.665420532227,2017.0,-0.4589767456049998,-0.4324893779169421
+Liechtenstein,LIE,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,111.66381072998,1990.0,116.123443603516,2017.0,4.459632873535995,3.9938032245022175
+Liechtenstein,LIE,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,90.3890228271484,1990.0,105.747131347656,2017.0,15.3581085205076,16.991121311132023
+Liechtenstein,LIE,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,242.0,1990.0,252.0,2017.0,10.0,4.132231404958678
+Lithuania,LTU,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,14.7936296463013,1990.0,15.2466697692871,2017.0,0.45304012298580076,3.0624000587919933
+Lithuania,LTU,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.76492023468018,1990.0,4.61250019073486,2017.0,-0.1524200439453205,-3.1987952880296406
+Lithuania,LTU,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,89.6067962646484,1990.0,103.439102172852,2017.0,13.832305908203608,15.436670525917148
+Lithuania,LTU,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,94.9434127807617,1990.0,108.259651184082,2017.0,13.316238403320298,14.025447383136996
+Lithuania,LTU,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,93.2039413452148,1990.0,102.175079345703,2017.0,8.971138000488196,9.625277505444018
+Lithuania,LTU,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,10378.0,1990.0,8401.0,2017.0,-1977.0,-19.049913278088262
+Luxembourg,LUX,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,52.3530197143555,1990.0,30.839599609375,2017.0,-21.513420104980497,-41.09298799259405
+Luxembourg,LUX,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.54446005821228,1990.0,4.08387994766235,2017.0,0.5394198894500701,15.21867592216958
+Luxembourg,LUX,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,90.7736892700195,1990.0,97.1300888061523,2017.0,6.356399536132798,7.002469093466904
+Luxembourg,LUX,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,68.9304580688477,1990.0,102.26245880127,2017.0,33.3320007324223,48.35598321300915
+Luxembourg,LUX,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,84.3121185302734,1990.0,79.3307723999023,2017.0,-4.981346130371094,-5.90822080764401
+Luxembourg,LUX,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,1770.0,1990.0,4338.0,2017.0,2568.0,145.08474576271186
+"Macao SAR, China",MAC,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,28.9488201141357,1990.0,24.7960796356201,2017.0,-4.1527404785156,-14.345111345273164
+"Macao SAR, China",MAC,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.68109011650085,1990.0,2.02779006958008,2017.0,-1.6533000469207701,-44.91332715571644
+"Macao SAR, China",MAC,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,106.689338684082,1990.0,100.389106750488,2017.0,-6.300231933594006,-5.905212283909298
+"Macao SAR, China",MAC,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,60.8881301879883,1990.0,96.4791870117188,2017.0,35.591056823730504,58.453193937546345
+"Macao SAR, China",MAC,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,96.7060394287109,1990.0,90.8096771240234,2017.0,-5.8963623046875,-6.09720172547666
+"Macao SAR, China",MAC,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,1505.0,1990.0,1722.0,2017.0,217.0,14.418604651162791
+"Macedonia, FYR",MKD,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,57.3820915222167,1990.0,54.5119285583496,2017.0,-2.870162963867095,-5.001844456568563
+"Macedonia, FYR",MKD,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.97910976409912,1990.0,3.2948100566864,2017.0,-1.6842997074127202,-33.82732631357172
+"Macedonia, FYR",MKD,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,95.6540298461914,1990.0,93.2184982299805,2017.0,-2.435531616210909,-2.546188195235648
+"Macedonia, FYR",MKD,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,75.1660385131835,1990.0,79.2940979003906,2017.0,4.128059387207102,5.491920911174632
+"Macedonia, FYR",MKD,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,94.8200531005859,1990.0,89.691062927246,2017.0,-5.128990173339901,-5.409182979363052
+"Macedonia, FYR",MKD,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,5855.0,1990.0,7137.0,2017.0,1282.0,21.895815542271563
+Madagascar,MDG,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,27.2105693817139,1990.0,47.3517913818359,2017.0,20.141222000122003,74.01984764661833
+Madagascar,MDG,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.14053010940552,1990.0,2.08204007148743,2017.0,-0.05849003791808993,-2.7325024610064523
+Madagascar,MDG,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,96.447509765625,1990.0,148.894454956055,2017.0,52.44694519043,54.37874478862148
+Madagascar,MDG,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,18.2677097320557,1990.0,38.434928894043,2017.0,20.167219161987298,110.39818049330172
+Madagascar,MDG,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,35.0467109680176,1990.0,69.3401412963867,2017.0,34.293430328369105,97.8506381373821
+Madagascar,MDG,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,37932.0,1990.0,115640.0,2017.0,77708.0,204.86133080248865
+Malawi,MWI,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,40.263240814209,1990.0,43.9514999389648,2017.0,3.6882591247558025,9.160363274717337
+Malawi,MWI,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.27053999900818,1990.0,5.60798978805541,2017.0,2.33744978904723,71.46984258734284
+Malawi,MWI,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,73.121208190918,1990.0,145.465774536133,2017.0,72.34456634521501,98.93787060564537
+Malawi,MWI,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,16.095329284668,1990.0,43.395191192627,2017.0,27.299861907959002,169.61356568184135
+Malawi,MWI,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,29.2950401306152,1990.0,79.3375625610352,2017.0,50.04252243042,170.82250854513202
+Malawi,MWI,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,40836.0,1990.0,60488.0,2017.0,19652.0,48.1242041336076
+Malaysia,MYS,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,34.627368927002,1990.0,33.1969985961914,2017.0,-1.4303703308106037,-4.130750834191212
+Malaysia,MYS,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,5.10065984725952,1990.0,4.96636009216309,2017.0,-0.13429975509642933,-2.6329878705514123
+Malaysia,MYS,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,92.6915435791016,1990.0,101.792053222656,2017.0,9.100509643554389,9.818058144417616
+Malaysia,MYS,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,54.6556510925292,1990.0,77.5712814331055,2017.0,22.9156303405763,41.92728452137789
+Malaysia,MYS,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,87.8634033203125,1990.0,101.180770874023,2017.0,13.317367553710497,15.156899289640597
+Malaysia,MYS,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,120505.0,1990.0,269757.0,2017.0,149252.0,123.85544168291771
+Maldives,MDV,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,54.1283111572266,1990.0,39.6632614135742,2017.0,-14.4650497436524,-26.72363026741357
+Maldives,MDV,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,5.70389986038208,1990.0,5.22350978851318,2017.0,-0.48039007186890004,-8.422133691469133
+Maldives,MDV,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,118.806510925293,1990.0,97.9177780151367,2017.0,-20.888732910156293,-17.582144907269758
+Maldives,MDV,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,50.4049491882324,1990.0,69.8193969726563,2017.0,19.414447784423906,38.516947436892615
+Maldives,MDV,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,117.833473205566,1990.0,92.1012725830078,2017.0,-25.732200622558196,-21.837768099788736
+Maldives,MDV,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,2805.0,1990.0,4252.0,2017.0,1447.0,51.58645276292335
+Mali,MLI,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,44.7107315063477,1990.0,43.18798828125,2017.0,-1.5227432250976989,-3.4057667450185
+Mali,MLI,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.65401005744934,1990.0,3.73928999900818,2017.0,1.0852799415588401,40.892080966786466
+Mali,MLI,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,27.1855201721191,1990.0,75.7903518676758,2017.0,48.6048316955567,178.78941211286732
+Mali,MLI,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,6.77525997161865,1990.0,41.3074798583984,2017.0,34.53221988677975,509.6811049529336
+Mali,MLI,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,30.8194999694824,1990.0,50.9138793945313,2017.0,20.0943794250489,65.2002123491505
+Mali,MLI,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,8405.0,1990.0,52148.0,2017.0,43743.0,520.4402141582391
+Malta,MLT,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,24.3390502929688,1990.0,20.2395896911621,2017.0,-4.099460601806701,-16.843141176264282
+Malta,MLT,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.83141994476318,1990.0,7.84899997711182,2017.0,4.01758003234864,104.85877534358782
+Malta,MLT,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,106.450408935547,1990.0,103.414390563965,2017.0,-3.036018371582003,-2.8520495148311116
+Malta,MLT,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,81.2334136962891,1990.0,94.8015975952148,2017.0,13.568183898925696,16.702712937380245
+Malta,MLT,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,100.254760742188,1990.0,99.28662109375,2017.0,-0.9681396484379974,-0.9656794762371783
+Malta,MLT,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,1601.0,1990.0,2021.08752441406,2017.0,420.08752441406,26.239070856593376
+Marshall Islands,MHL,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,45.4705200195313,1990.0,45.4705200195313,2017.0,0.0,0.0
+Marshall Islands,MHL,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,14.5390396118164,1990.0,12.239990234375,2017.0,-2.299049377441399,-15.81293839775276
+Marshall Islands,MHL,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,89.7943572998047,1990.0,93.3998565673828,2017.0,3.6054992675780966,4.015284897624562
+Marshall Islands,MHL,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,67.7624816894531,1990.0,76.6118774414063,2017.0,8.84939575195321,13.059432788351636
+Marshall Islands,MHL,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,92.5298233032227,1990.0,99.7540969848633,2017.0,7.224273681640597,7.80750835108207
+Marshall Islands,MHL,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,550.0,1990.0,517.0,2017.0,-33.0,-6.0
+Mauritania,MRT,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,55.1444892883301,1990.0,43.2093811035156,2017.0,-11.935108184814503,-21.64333796330989
+Mauritania,MRT,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.34251999855042,1990.0,2.93011999130249,2017.0,0.5875999927520699,25.084097173799325
+Mauritania,MRT,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,46.7119789123535,1990.0,102.452171325684,2017.0,55.740192413330504,119.32740532769293
+Mauritania,MRT,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,13.4224004745483,1990.0,30.5981101989746,2017.0,17.175709724426298,127.96302536938204
+Mauritania,MRT,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,28.7842597961426,1990.0,68.3430786132813,2017.0,39.55881881713871,137.43212122633778
+Mauritania,MRT,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,3497.0,1990.0,17669.0,2017.0,14172.0,405.261652845296
+Mauritius,MUS,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,43.4069595336914,1990.0,20.6199703216553,2017.0,-22.7869892120361,-52.49616526204608
+Mauritius,MUS,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.15707993507385,1990.0,4.88538980484009,2017.0,1.7283098697662398,54.74393760403192
+Mauritius,MUS,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,111.779479980469,1990.0,103.036361694336,2017.0,-8.743118286133011,-7.821756093033066
+Mauritius,MUS,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,52.4091415405273,1990.0,95.696159362793,2017.0,43.287017822265696,82.59440347595164
+Mauritius,MUS,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,113.649909973145,1990.0,101.07795715332,2017.0,-12.571952819825,-11.061999805187439
+Mauritius,MUS,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,6507.0,1990.0,5400.0,2017.0,-1107.0,-17.012448132780083
+Mexico,MEX,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,25.9801197052002,1990.0,32.7575302124023,2017.0,6.777410507202102,26.086910237929082
+Mexico,MEX,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.31176996231079,1990.0,5.31347990036011,2017.0,3.00170993804932,129.84466391495468
+Mexico,MEX,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,110.749877929688,1990.0,103.389198303223,2017.0,-7.360679626465,-6.646219177901116
+Mexico,MEX,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,52.6773681640625,1990.0,90.549690246582,2017.0,37.8723220825195,71.89486377635077
+Mexico,MEX,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,86.6627578735352,1990.0,104.708419799805,2017.0,18.0456619262698,20.822856748458644
+Mexico,MEX,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,466532.0,1990.0,533675.0,2017.0,67143.0,14.391938816629942
+"Micronesia, Fed. Sts.",FSM,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+"Micronesia, Fed. Sts.",FSM,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,6.40977001190186,1990.0,12.4677495956421,2017.0,6.057979583740241,94.51165287508906
+"Micronesia, Fed. Sts.",FSM,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,113.154472351074,1990.0,95.5217666625977,2017.0,-17.632705688476307,-15.582862366914608
+"Micronesia, Fed. Sts.",FSM,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,82.5146636962891,1990.0,83.21533203125,2017.0,0.7006683349608949,0.8491440231033817
+"Micronesia, Fed. Sts.",FSM,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+"Micronesia, Fed. Sts.",FSM,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,698.0,1990.0,698.0,2017.0,0.0,0.0
+Moldova,MDA,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,17.1107501983643,1990.0,22.696720123291,2017.0,5.585969924926701,32.64596736068703
+Moldova,MDA,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,9.89659976959229,1990.0,7.46784019470215,2017.0,-2.4287595748901403,-24.541353913822036
+Moldova,MDA,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,90.0145797729492,1990.0,92.4127807617188,2017.0,2.3982009887696023,2.664236165762004
+Moldova,MDA,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,94.0150985717773,1990.0,86.1081237792969,2017.0,-7.906974792480398,-8.410324418735458
+Moldova,MDA,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,95.0131225585938,1990.0,90.9086074829102,2017.0,-4.104515075683608,-4.319945461378125
+Moldova,MDA,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,12070.0,1990.0,7936.0,2017.0,-4134.0,-34.25020712510356
+Monaco,MCO,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,16.9879703521729,1990.0,15.9940099716187,2017.0,-0.993960380554201,-5.850966065684623
+Monaco,MCO,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,0.913600027561188,1990.0,1.02195000648499,2017.0,0.10834997892380205,11.859673342287126
+Monaco,MCO,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,,,,,,
+Monaco,MCO,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,,,,,,
+Monaco,MCO,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+Monaco,MCO,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,106.0,1990.0,155.0,2017.0,49.0,46.22641509433962
+Mongolia,MNG,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,25.0678291320801,1990.0,32.7358283996582,2017.0,7.667999267578104,30.5890040464857
+Mongolia,MNG,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.94865989685059,1990.0,4.59987020492554,2017.0,0.6512103080749498,16.491932075344053
+Mongolia,MNG,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,101.463676452637,1990.0,100.89608001709,2017.0,-0.5675964355470029,-0.5594085049854817
+Mongolia,MNG,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,88.7091598510742,1990.0,91.4623336791992,2017.0,2.753173828125,3.1035958775249983
+Mongolia,MNG,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,74.7133483886719,1990.0,98.2769470214844,2017.0,23.5635986328125,31.538672996196798
+Mongolia,MNG,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,5550.0,1990.0,8901.0,2017.0,3351.0,60.378378378378386
+Montenegro,MNE,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+Montenegro,MNE,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,,,,,,
+Montenegro,MNE,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,107.316009521484,1990.0,94.3067169189453,2017.0,-13.009292602538707,-12.12241552825753
+Montenegro,MNE,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,92.9264526367188,1990.0,90.3422317504883,2017.0,-2.5842208862305114,-2.7809313848803767
+Montenegro,MNE,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,72.5719680786133,1990.0,92.5781707763672,2017.0,20.006202697753906,27.567397202294785
+Montenegro,MNE,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,,,,,,
+Morocco,MAR,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,33.3422508239746,1990.0,37.7254409790039,2017.0,4.383190155029297,13.146053570797275
+Morocco,MAR,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.50602006912231,1990.0,5.26403999328613,2017.0,0.7580199241638201,16.82238233598166
+Morocco,MAR,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,67.2208862304688,1990.0,114.706146240234,2017.0,47.4852600097652,70.64063369673612
+Morocco,MAR,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,37.1628189086914,1990.0,69.0629501342773,2017.0,31.900131225585902,85.83883613340566
+Morocco,MAR,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,50.7016181945801,1990.0,102.938041687012,2017.0,52.2364234924319,103.02713276716653
+Morocco,MAR,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,86588.0,1990.0,156072.0,2017.0,69484.0,80.24668545294959
+Mozambique,MOZ,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,57.6558990478516,1990.0,49.246639251709,2017.0,-8.4092597961426,-14.58525482217062
+Mozambique,MOZ,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.05193996429443,1990.0,6.48322010040283,2017.0,4.4312801361084,215.95564262193793
+Mozambique,MOZ,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,63.2512893676758,1990.0,105.801940917969,2017.0,42.5506515502932,67.27238602670835
+Mozambique,MOZ,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,7.04563999176025,1990.0,32.4318084716797,2017.0,25.38616847991945,360.3103268064806
+Mozambique,MOZ,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,26.6840591430664,1990.0,47.8936386108398,2017.0,21.209579467773402,79.48408206584459
+Mozambique,MOZ,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,23107.0,1990.0,107976.0,2017.0,84869.0,367.2869693166573
+Myanmar,MMR,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,41.2313117980957,1990.0,41.2313117980957,2017.0,0.0,0.0
+Myanmar,MMR,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,1.20190000534058,1990.0,1.20190000534058,2017.0,0.0,0.0
+Myanmar,MMR,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,89.2300720214844,1990.0,99.6582870483398,2017.0,10.428215026855398,11.686884018590213
+Myanmar,MMR,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,19.2989292144775,1990.0,51.2960891723633,2017.0,31.997159957885803,165.79759219948045
+Myanmar,MMR,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,70.3570175170898,1990.0,85.072898864746,2017.0,14.715881347656193,20.916010750571807
+Myanmar,MMR,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,107867.0,1990.0,187828.0,2017.0,79961.0,74.1292517637461
+Namibia,NAM,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,58.466121673584,1990.0,40.0132102966309,2017.0,-18.452911376953097,-31.56171616782722
+Namibia,NAM,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,7.2175498008728,1990.0,8.34961032867432,2017.0,1.13206052780152,15.68483154303449
+Namibia,NAM,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,118.283363342285,1990.0,111.428108215332,2017.0,-6.855255126952997,-5.795620730800033
+Namibia,NAM,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,37.9743118286133,1990.0,64.8425521850585,2017.0,26.86824035644519,70.75372551241394
+Namibia,NAM,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,74.0689163208008,1990.0,86.4988327026367,2017.0,12.429916381835909,16.78155560964406
+Namibia,NAM,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,10912.0,1990.0,13652.0,2017.0,2740.0,25.109970674486803
+Nepal,NPL,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,51.2033386230469,1990.0,53.770149230957,2017.0,2.5668106079100994,5.012975085094869
+Nepal,NPL,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.88786005973816,1990.0,3.71216011047363,2017.0,0.8243000507354701,28.543628627566143
+Nepal,NPL,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,111.929412841797,1990.0,135.86213684082,2017.0,23.932723999022997,21.381979402366678
+Nepal,NPL,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,33.283130645752,1990.0,69.5714721679688,2017.0,36.288341522216804,109.02923137985627
+Nepal,NPL,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,52.4176406860352,1990.0,110.152778625488,2017.0,57.7351379394528,110.14448033872355
+Nepal,NPL,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,71213.0,1990.0,190219.0,2017.0,119006.0,167.11274626823754
+Netherlands,NLD,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,18.9844608306885,1990.0,22.4624805450439,2017.0,3.4780197143553977,18.32035023472016
+Netherlands,NLD,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,5.28985023498535,1990.0,5.52937984466553,2017.0,0.23952960968018022,4.528098132079605
+Netherlands,NLD,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,103.740608215332,1990.0,104.701721191406,2017.0,0.9611129760739914,0.9264578187926479
+Netherlands,NLD,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,118.482559204102,1990.0,135.47380065918,2017.0,16.991241455077997,14.340711045756802
+Netherlands,NLD,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,99.2077865600585,1990.0,101.199806213379,2017.0,1.9920196533205115,2.007926718649832
+Netherlands,NLD,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,62319.0,1990.0,103930.1171875,2017.0,41611.1171875,66.77115677000593
+New Caledonia,NCL,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+New Caledonia,NCL,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,,,,,,
+New Caledonia,NCL,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,,,,,,
+New Caledonia,NCL,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,,,,,,
+New Caledonia,NCL,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+New Caledonia,NCL,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,1147.0,1990.0,1096.0,2017.0,-51.0,-4.446381865736704
+New Zealand,NZL,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,24.0081996917725,1990.0,23.2365493774414,2017.0,-0.7716503143311009,-3.2141115295518885
+New Zealand,NZL,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,5.92598009109497,1990.0,6.36888980865479,2017.0,0.4429097175598198,7.474033168376396
+New Zealand,NZL,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,104.67366027832,1990.0,99.3609008789063,2017.0,-5.312759399413693,-5.07554563897683
+New Zealand,NZL,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,88.6515884399414,1990.0,116.591590881348,2017.0,27.94000244140659,31.516640517202966
+New Zealand,NZL,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+New Zealand,NZL,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,17729.0,1990.0,25071.830078125,2017.0,7342.830078125,41.41705724025608
+Nicaragua,NIC,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,58.1523513793945,1990.0,39.8118705749512,2017.0,-18.340480804443303,-31.53867448073992
+Nicaragua,NIC,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.98497009277344,1990.0,4.48548984527588,2017.0,1.5005197525024396,50.26917208099242
+Nicaragua,NIC,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,87.4436264038085,1990.0,123.259178161621,2017.0,35.8155517578125,40.958447437230944
+Nicaragua,NIC,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,37.0642318725586,1990.0,74.188346862793,2017.0,37.124114990234396,100.16156578634003
+Nicaragua,NIC,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,39.5597686767578,1990.0,85.3660736083984,2017.0,45.8063049316406,115.79012330917084
+Nicaragua,NIC,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,19022.0,1990.0,30571.0,2017.0,11549.0,60.713910209231415
+Niger,NER,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,47.6029586791992,1990.0,52.1860885620117,2017.0,4.5831298828125,9.627825685581104
+Niger,NER,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.93881011009216,1990.0,6.70941019058228,2017.0,3.77060008049012,128.30363103561922
+Niger,NER,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,26.8068695068359,1990.0,72.4993515014648,2017.0,45.692481994628906,170.45064505938328
+Niger,NER,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,6.24449014663696,1990.0,20.7498207092285,2017.0,14.505330562591542,232.2900704776282
+Niger,NER,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,16.4509906768799,1990.0,68.988426208496,2017.0,52.5374355316161,319.35727497221075
+Niger,NER,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,8462.0,1990.0,66750.0,2017.0,58288.0,688.8206097849209
+Nigeria,NGA,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+Nigeria,NGA,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,,,,,,
+Nigeria,NGA,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,86.2617263793945,1990.0,93.6748886108398,2017.0,7.413162231445298,8.593802306762194
+Nigeria,NGA,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,24.5958194732666,1990.0,55.7042198181152,2017.0,31.108400344848597,126.4784057252517
+Nigeria,NGA,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,81.792350769043,1990.0,73.2992095947266,2017.0,-8.493141174316392,-10.383784173532888
+Nigeria,NGA,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,331915.0,1990.0,574078.0,2017.0,242163.0,72.95934200021091
+Northern Mariana Islands,MNP,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+Northern Mariana Islands,MNP,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,,,,,,
+Northern Mariana Islands,MNP,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,,,,,,
+Northern Mariana Islands,MNP,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,,,,,,
+Northern Mariana Islands,MNP,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+Northern Mariana Islands,MNP,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,,,,,,
+Norway,NOR,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,38.5426597595215,1990.0,22.6863899230957,2017.0,-15.856269836425799,-41.13953197666567
+Norway,NOR,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,6.30919981002808,1990.0,7.37329006195068,2017.0,1.0640902519226003,16.865692702128328
+Norway,NOR,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,100.252731323242,1990.0,100.420921325684,2017.0,0.1681900024420031,0.16776600519711818
+Norway,NOR,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,100.998153686523,1990.0,112.989242553711,2017.0,11.991088867187997,11.87258224977638
+Norway,NOR,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,95.2238464355469,1990.0,98.2389373779297,2017.0,3.0150909423827983,3.1663192102028654
+Norway,NOR,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,47444.0,1990.0,48583.28125,2017.0,1139.28125,2.401317869488239
+Oman,OMN,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,54.3865203857422,1990.0,32.9536895751953,2017.0,-21.432830810546903,-39.408350926906635
+Oman,OMN,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.83892011642456,1990.0,4.96038007736206,2017.0,2.1214599609374996,74.72770891522457
+Oman,OMN,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,81.975959777832,1990.0,109.281021118164,2017.0,27.305061340332003,33.30862049597601
+Oman,OMN,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,42.1564712524414,1990.0,104.233268737793,2017.0,62.0767974853516,147.25330569919691
+Oman,OMN,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,65.0419998168945,1990.0,105.224952697754,2017.0,40.1829528808595,61.78000829307538
+Oman,OMN,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,8972.0,1990.0,15775.0,2017.0,6803.0,75.82478823004905
+Pakistan,PAK,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,43.6586990356445,1990.0,31.0512008666992,2017.0,-12.607498168945302,-28.877402321704764
+Pakistan,PAK,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.51596999168395,1990.0,2.6467399597168,2017.0,0.1307699680328498,5.197596492211135
+Pakistan,PAK,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,58.6575508117676,1990.0,92.7095413208008,2017.0,34.051990509033196,58.05218601490236
+Pakistan,PAK,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,21.9833602905273,1990.0,44.5258712768555,2017.0,22.542510986328196,102.54351786265286
+Pakistan,PAK,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,64.5195083618164,1990.0,71.8552169799805,2017.0,7.335708618164091,11.369752814957081
+Pakistan,PAK,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,209754.0,1990.0,428281.0,2017.0,218527.0,104.18251856937172
+Palau,PLW,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,44.864429473877,1990.0,44.864429473877,2017.0,0.0,0.0
+Palau,PLW,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,7.85672998428345,1990.0,7.50749015808105,2017.0,-0.3492398262023997,-4.44510409420989
+Palau,PLW,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,110.094291687012,1990.0,99.6418304443359,2017.0,-10.452461242676108,-9.494099178540063
+Palau,PLW,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,103.227272033691,1990.0,95.747703552246,2017.0,-7.479568481445,-7.245729092796177
+Palau,PLW,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,104.450256347656,1990.0,80.3278732299805,2017.0,-24.122383117675497,-23.094613609549878
+Palau,PLW,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,127.0,1990.0,98.0,2017.0,-29.0,-22.83464566929134
+Panama,PAN,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,31.3808708190918,1990.0,23.471019744873,2017.0,-7.9098510742188,-25.20596423158062
+Panama,PAN,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.47054004669189,1990.0,3.18772006034851,2017.0,-0.28281998634338024,-8.149163603888205
+Panama,PAN,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,100.686401367188,1990.0,102.223518371582,2017.0,1.5371170043940054,1.5266381393336061
+Panama,PAN,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,58.9231605529785,1990.0,75.5586013793945,2017.0,16.635440826416,28.232431305952915
+Panama,PAN,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,89.7453308105469,1990.0,99.6700134277344,2017.0,9.9246826171875,11.058717514940785
+Panama,PAN,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,15249.0,1990.0,19404.0,2017.0,4155.0,27.247688373008067
+Papua New Guinea,PNG,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+Papua New Guinea,PNG,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,,,,,,
+Papua New Guinea,PNG,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,61.9067611694336,1990.0,114.735412597656,2017.0,52.82865142822239,85.3358347784256
+Papua New Guinea,PNG,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,10.6830596923828,1990.0,40.346321105957,2017.0,29.663261413574205,277.66634529548315
+Papua New Guinea,PNG,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,45.1326904296875,1990.0,78.6113586425781,2017.0,33.4786682128906,74.17831264689887
+Papua New Guinea,PNG,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,13105.0,1990.0,31586.0,2017.0,18481.0,141.02251049217855
+Paraguay,PRY,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,43.8853607177734,1990.0,38.254150390625,2017.0,-5.631210327148402,-12.831637327451165
+Paraguay,PRY,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,1.0626699924469,1990.0,4.95539999008179,2017.0,3.8927299976348895,366.3159800599529
+Paraguay,PRY,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,105.515968322754,1990.0,105.986167907715,2017.0,0.47019958496099434,0.4456193621071078
+Paraguay,PRY,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,31.0095806121826,1990.0,76.5734786987305,2017.0,45.563898086547894,146.93490588082122
+Paraguay,PRY,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,65.3674087524414,1990.0,89.0869979858398,2017.0,23.719589233398395,36.28656801010563
+Paraguay,PRY,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,27831.0,1990.0,34694.0,2017.0,6863.0,24.659552297797422
+Peru,PER,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,30.6601905822754,1990.0,36.489860534668,2017.0,5.829669952392596,19.01380859570624
+Peru,PER,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.10976004600525,1990.0,3.97865009307861,2017.0,0.8688900470733603,27.940742508076244
+Peru,PER,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,117.770606994629,1990.0,101.695167541504,2017.0,-16.075439453125,-13.649789080103941
+Peru,PER,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,67.0895919799805,1990.0,95.7445220947266,2017.0,28.654930114746108,42.7114389416718
+Peru,PER,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,87.3076629638672,1990.0,99.4461364746094,2017.0,12.138473510742202,13.903102085971286
+Peru,PER,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,132556.0,1990.0,195444.0,2017.0,62888.0,47.4425903014575
+Philippines,PHL,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,59.356029510498,1990.0,54.9750900268555,2017.0,-4.3809394836425,-7.380782575538793
+Philippines,PHL,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.0358099937439,1990.0,2.65167999267578,2017.0,-0.3841300010681201,-12.653295227953096
+Philippines,PHL,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,110.050956726074,1990.0,116.818870544434,2017.0,6.76791381836,6.149800074165554
+Philippines,PHL,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,71.9857177734375,1990.0,88.3889236450195,2017.0,16.403205871582003,22.786750454039
+Philippines,PHL,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,89.236198425293,1990.0,100.970108032227,2017.0,11.733909606934006,13.14927105143036
+Philippines,PHL,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,314838.0,1990.0,461244.0,2017.0,146406.0,46.502010557810685
+Poland,POL,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,33.7107315063477,1990.0,31.4054908752441,2017.0,-2.3052406311035973,-6.838299046312664
+Poland,POL,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.89144992828369,1990.0,4.91174983978271,2017.0,1.0202999114990203,26.219016826692666
+Poland,POL,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,98.4594268798828,1990.0,100.571517944336,2017.0,2.112091064453196,2.1451384914416334
+Poland,POL,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,88.8867721557617,1990.0,108.104682922363,2017.0,19.217910766601292,21.62066447066452
+Poland,POL,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,97.7827072143555,1990.0,97.9116363525391,2017.0,0.12892913818360796,0.13185269855637607
+Poland,POL,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,289113.0,1990.0,219826.0,2017.0,-69287.0,-23.965369941856643
+Portugal,PRT,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,41.5538291931152,1990.0,29.8887901306152,2017.0,-11.6650390625,-28.07211582905748
+Portugal,PRT,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.56937003135681,1990.0,5.1255898475647,2017.0,1.5562198162078897,43.59928509895429
+Portugal,PRT,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,122.090942382813,1990.0,107.369911193848,2017.0,-14.721031188965,-12.057431044153617
+Portugal,PRT,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,60.1902198791504,1990.0,119.135192871094,2017.0,58.94497299194361,97.93114746929487
+Portugal,PRT,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+Portugal,PRT,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,72593.0,1990.0,49355.0,2017.0,-23238.0,-32.011350956703815
+Puerto Rico,PRI,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,21.6404304504395,1990.0,21.6404304504395,2017.0,0.0,0.0
+Puerto Rico,PRI,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,6.39076995849609,1990.0,6.39076995849609,2017.0,0.0,0.0
+Puerto Rico,PRI,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,93.7932815551758,1990.0,89.7483215332031,2017.0,-4.044960021972699,-4.312633010492515
+Puerto Rico,PRI,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,85.2310333251953,1990.0,81.288818359375,2017.0,-3.9422149658202983,-4.6253281369697214
+Puerto Rico,PRI,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+Puerto Rico,PRI,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,26058.0,1990.0,19266.0,2017.0,-6792.0,-26.064932074602808
+Qatar,QAT,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,17.6384296417236,1990.0,17.6384296417236,2017.0,0.0,0.0
+Qatar,QAT,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.57767009735107,1990.0,3.60718989372253,2017.0,0.02951979637145996,0.8251123096373981
+Qatar,QAT,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,98.4281463623047,1990.0,102.997619628906,2017.0,4.5694732666012925,4.642445718505654
+Qatar,QAT,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,80.0563812255859,1990.0,91.172492980957,2017.0,11.116111755371108,13.885353778417372
+Qatar,QAT,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,73.1907424926758,1990.0,91.9766998291016,2017.0,18.78595733642581,25.66712222970784
+Qatar,QAT,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,4037.0,1990.0,11221.0,2017.0,7184.0,177.953926182809
+Romania,ROU,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,36.412899017334,1990.0,13.7186803817749,2017.0,-22.694218635559096,-62.32466858723811
+Romania,ROU,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.21977996826172,1990.0,3.12917995452881,2017.0,-0.09060001373291016,-2.8138573016162614
+Romania,ROU,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,89.7054824829102,1990.0,89.7830581665039,2017.0,0.07757568359370737,0.08647819670161891
+Romania,ROU,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,98.6847763061523,1990.0,92.2522125244141,2017.0,-6.432563781738196,-6.518293927912739
+Romania,ROU,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,90.237693786621,1990.0,92.4518585205078,2017.0,2.214164733886804,2.4537027055705685
+Romania,ROU,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,57140.0,1990.0,50098.0,2017.0,-7042.0,-12.32411620581029
+Russian Federation,RUS,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+Russian Federation,RUS,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.93804001808167,1990.0,3.86133003234863,2017.0,0.9232900142669602,31.42537230891098
+Russian Federation,RUS,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,107.919960021973,1990.0,100.521110534668,2017.0,-7.398849487305,-6.8558675205203565
+Russian Federation,RUS,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,97.6081085205078,1990.0,104.483131408691,2017.0,6.875022888183196,7.043495660751105
+Russian Federation,RUS,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,94.032371520996,1990.0,101.143356323242,2017.0,7.1109848022460085,7.562273169573559
+Russian Federation,RUS,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,320000.0,1990.0,289051.0,2017.0,-30949.0,-9.6715625
+Rwanda,RWA,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,48.177848815918,1990.0,34.6111183166504,2017.0,-13.5667304992676,-28.15968506834855
+Rwanda,RWA,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.57842016220093,1990.0,3.61734008789063,2017.0,-0.9610800743103005,-20.99152197181247
+Rwanda,RWA,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,73.1063613891602,1990.0,132.550064086914,2017.0,59.44370269775381,81.31125878543286
+Rwanda,RWA,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,16.257360458374,1990.0,36.6869697570801,2017.0,20.4296092987061,125.66375304905675
+Rwanda,RWA,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,43.1311302185059,1990.0,60.7803497314453,2017.0,17.649219512939396,40.91990964189201
+Rwanda,RWA,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,18524.0,1990.0,42005.0,2017.0,23481.0,126.75987907579356
+Samoa,WSM,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,32.054500579834,1990.0,45.7862281799316,2017.0,13.7317276000976,42.83868833300885
+Samoa,WSM,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.0162501335144,1990.0,5.14420986175537,2017.0,1.1279597282409703,28.08489737301184
+Samoa,WSM,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,99.3409805297852,1990.0,106.731147766113,2017.0,7.390167236327798,7.439192966403245
+Samoa,WSM,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,76.4757537841797,1990.0,84.9560394287109,2017.0,8.480285644531193,11.088855257920299
+Samoa,WSM,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,95.064582824707,1990.0,103.479347229004,2017.0,8.414764404297003,8.851629233794975
+Samoa,WSM,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,1475.0,1990.0,1021.0,2017.0,-454.0,-30.77966101694915
+San Marino,SMR,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,32.5265884399414,1990.0,33.3214111328125,2017.0,0.7948226928711009,2.443609154826361
+San Marino,SMR,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.20448994636536,1990.0,2.38372993469238,2017.0,-0.8207600116729799,-25.61281281608992
+San Marino,SMR,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,92.9460601806641,1990.0,93.3017196655273,2017.0,0.355659484863196,0.38265149073761934
+San Marino,SMR,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,95.5685577392578,1990.0,94.6519927978516,2017.0,-0.9165649414061932,-0.9590653694982835
+San Marino,SMR,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,91.6167678833008,1990.0,95.3168029785156,2017.0,3.700035095214801,4.038600335615218
+San Marino,SMR,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,199.0,1990.0,251.0,2017.0,52.0,26.13065326633166
+Sao Tome and Principe,STP,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,51.5239791870117,1990.0,55.8172416687012,2017.0,4.293262481689503,8.332552239621585
+Sao Tome and Principe,STP,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.87690997123718,1990.0,3.7568199634552,2017.0,0.8799099922180202,30.585246011004845
+Sao Tome and Principe,STP,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,138.760940551758,1990.0,114.956253051758,2017.0,-23.804687500000014,-17.15517883155371
+Sao Tome and Principe,STP,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,37.4833488464355,1990.0,86.1944885253906,2017.0,48.7111396789551,129.95407608460607
+Sao Tome and Principe,STP,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,73.9142379760742,1990.0,82.8988876342773,2017.0,8.984649658203097,12.155506035402
+Sao Tome and Principe,STP,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,559.0,1990.0,1132.0,2017.0,573.0,102.50447227191412
+Saudi Arabia,SAU,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+Saudi Arabia,SAU,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,5.82608985900879,1990.0,5.13580989837646,2017.0,-0.6902799606323295,-11.8480829739514
+Saudi Arabia,SAU,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,93.0454483032227,1990.0,109.47802734375,2017.0,16.4325790405273,17.660809142405032
+Saudi Arabia,SAU,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,86.1668701171875,1990.0,108.287879943848,2017.0,22.121009826660497,25.672291214216997
+Saudi Arabia,SAU,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,86.5625534057617,1990.0,107.936042785645,2017.0,21.373489379883296,24.69138043987119
+Saudi Arabia,SAU,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,273288.0,1990.0,352688.0,2017.0,79400.0,29.05359913351483
+Senegal,SEN,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,39.8846015930176,1990.0,34.8556213378906,2017.0,-5.028980255127003,-12.608826600407616
+Senegal,SEN,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.19777989387512,1990.0,7.39620018005371,2017.0,4.198420286178591,131.29172192933137
+Senegal,SEN,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,54.3895492553711,1990.0,82.1719436645508,2017.0,27.782394409179695,51.080390974992525
+Senegal,SEN,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,15.1707696914673,1990.0,49.6467590332031,2017.0,34.4759893417358,227.2527369598564
+Senegal,SEN,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,41.9047203063965,1990.0,57.1999206542969,2017.0,15.295200347900405,36.4999461541942
+Senegal,SEN,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,11859.0,1990.0,61620.0,2017.0,49761.0,419.6053630154313
+Serbia,SRB,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,48.1122016906738,1990.0,45.2564010620117,2017.0,-2.8558006286621023,-5.935709712523255
+Serbia,SRB,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.50148010253906,1990.0,4.17860984802246,2017.0,-0.3228702545165998,-7.17253541417377
+Serbia,SRB,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,109.671501159668,1990.0,101.342918395996,2017.0,-8.328582763672003,-7.594117592633867
+Serbia,SRB,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,94.1808624267578,1990.0,96.6696090698242,2017.0,2.4887466430664062,2.6425184256534546
+Serbia,SRB,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,100.519790649414,1990.0,101.010841369629,2017.0,0.49105072021500007,0.48851148320399207
+Serbia,SRB,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,17477.0,1990.0,18318.0,2017.0,841.0,4.812038679407221
+Seychelles,SYC,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,19.5506591796875,1990.0,23.9599304199219,2017.0,4.4092712402344,22.553056649954232
+Seychelles,SYC,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,9.02171039581299,1990.0,3.60644006729126,2017.0,-5.41527032852173,-60.024874341288736
+Seychelles,SYC,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,99.7342834472656,1990.0,102.291122436523,2017.0,2.5568389892574004,2.563651034410175
+Seychelles,SYC,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,111.029052734375,1990.0,81.6024703979492,2017.0,-29.426582336425795,-26.503497608707615
+Seychelles,SYC,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,101.539367675781,1990.0,108.754722595215,2017.0,7.215354919434006,7.105967945824624
+Seychelles,SYC,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,548.0,1990.0,654.0,2017.0,106.0,19.34306569343066
+Sierra Leone,SLE,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,52.0420417785645,1990.0,43.0943908691406,2017.0,-8.947650909423906,-17.19312041502057
+Sierra Leone,SLE,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.95053005218506,1990.0,2.66166996955872,2017.0,-2.2888600826263406,-46.23464676506884
+Sierra Leone,SLE,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,51.9050102233887,1990.0,127.598937988281,2017.0,75.6939277648923,145.83164021954892
+Sierra Leone,SLE,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,17.5411396026611,1990.0,43.2502593994141,2017.0,25.709119796752997,146.56470662175656
+Sierra Leone,SLE,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,83.6169128417969,1990.0,65.9720611572266,2017.0,-17.6448516845703,-21.102012840338098
+Sierra Leone,SLE,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,11280.0,1990.0,73970.0,2017.0,62690.0,555.7624113475177
+Singapore,SGP,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,22.469820022583,1990.0,21.9836597442627,2017.0,-0.48616027832030184,-2.163614474133272
+Singapore,SGP,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.32704997062683,1990.0,2.91579008102416,2017.0,-0.41125988960267,-12.361097465728383
+Singapore,SGP,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,,,,,,
+Singapore,SGP,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,,,,,,
+Singapore,SGP,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+Singapore,SGP,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,10006.0,1990.0,16893.0,2017.0,6887.0,68.828702778333
+Sint Maarten (Dutch part),SXM,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+Sint Maarten (Dutch part),SXM,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,,,,,,
+Sint Maarten (Dutch part),SXM,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,,,,,,
+Sint Maarten (Dutch part),SXM,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,,,,,,
+Sint Maarten (Dutch part),SXM,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+Sint Maarten (Dutch part),SXM,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,318.0,1990.0,318.0,2017.0,0.0,0.0
+Slovak Republic,SVK,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,28.3319492340088,1990.0,19.0513591766357,2017.0,-9.2805900573731,-32.75662391147082
+Slovak Republic,SVK,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,5.37924003601074,1990.0,4.23856019973755,2017.0,-1.1406798362731907,-21.205222831422894
+Slovak Republic,SVK,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,100.176063537598,1990.0,99.7320709228516,2017.0,-0.4439926147463922,-0.4432122795279865
+Slovak Republic,SVK,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,87.2670364379883,1990.0,92.4665374755859,2017.0,5.199501037597599,5.958150121543717
+Slovak Republic,SVK,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,96.3012619018555,1990.0,97.4379501342773,2017.0,1.136688232421804,1.1803461449760115
+Slovak Republic,SVK,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,15859.0,1990.0,14182.0,2017.0,-1677.0,-10.574437228072387
+Slovenia,SVN,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,23.6131706237793,1990.0,27.9327793121338,2017.0,4.319608688354499,18.293217616462314
+Slovenia,SVN,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.92384004592896,1990.0,5.48658990859985,2017.0,0.5627498626708896,11.429084970706391
+Slovenia,SVN,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,96.14453125,1990.0,99.3035736083984,2017.0,3.159042358398395,3.2857223570876735
+Slovenia,SVN,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,87.2440872192383,1990.0,110.670753479004,2017.0,23.42666625976571,26.851866993457257
+Slovenia,SVN,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,93.0809783935547,1990.0,99.1560516357422,2017.0,6.0750732421875,6.526653830927246
+Slovenia,SVN,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,5935.0,1990.0,6468.0,2017.0,533.0,8.980623420387532
+Solomon Islands,SLB,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,56.2922782897949,1990.0,56.2922782897949,2017.0,0.0,0.0
+Solomon Islands,SLB,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.75381994247437,1990.0,10.0010795593262,2017.0,7.24725961685183,263.17115019292083
+Solomon Islands,SLB,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,88.1738433837891,1990.0,114.322692871094,2017.0,26.1488494873049,29.656016437310484
+Solomon Islands,SLB,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,13.8793802261353,1990.0,48.4367904663086,2017.0,34.5574102401733,248.9838139537429
+Solomon Islands,SLB,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,60.0805511474609,1990.0,88.5957565307617,2017.0,28.515205383300803,47.461624167383995
+Solomon Islands,SLB,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,2457.0,1990.0,4051.0,2017.0,1594.0,64.87586487586488
+Somalia,SOM,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+Somalia,SOM,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,,,,,,
+Somalia,SOM,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,29.2021007537842,1990.0,29.2021007537842,2017.0,0.0,0.0
+Somalia,SOM,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,7.35304021835327,1990.0,7.35304021835327,2017.0,0.0,0.0
+Somalia,SOM,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+Somalia,SOM,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,12870.0,1990.0,12870.0,2017.0,0.0,0.0
+South Africa,ZAF,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,44.9937591552734,1990.0,38.7954292297363,2017.0,-6.198329925537102,-13.77597702860673
+South Africa,ZAF,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,5.28293991088867,1990.0,6.02955007553101,2017.0,0.7466101646423402,14.132475046772758
+South Africa,ZAF,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,106.709121704102,1990.0,99.7231063842773,2017.0,-6.986015319824702,-6.546783637856662
+South Africa,ZAF,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,66.0701065063477,1990.0,98.8196716308594,2017.0,32.749565124511705,49.56790121318373
+South Africa,ZAF,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,75.9046173095703,1990.0,95.805290222168,2017.0,19.9006729125977,26.218000456328706
+South Africa,ZAF,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,270365.0,1990.0,214170.0,2017.0,-56195.0,-20.78486490485085
+South Sudan,SSD,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,62.557201385498,1990.0,36.3594284057617,2017.0,-26.1977729797363,-41.87810899387431
+South Sudan,SSD,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,0.805209994316101,1990.0,1.81094002723694,2017.0,1.0057300329208392,124.9028253524161
+South Sudan,SSD,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,84.2450714111328,1990.0,64.1399383544922,2017.0,-20.105133056640597,-23.865055509922385
+South Sudan,SSD,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,9.01533031463623,1990.0,9.51756000518799,2017.0,0.5022296905517596,5.5708407016035615
+South Sudan,SSD,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,25.574369430542,1990.0,25.574369430542,2017.0,0.0,0.0
+South Sudan,SSD,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,29073.0,1990.0,27248.0,2017.0,-1825.0,-6.277301964021601
+Spain,ESP,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,24.5943298339844,1990.0,26.3277206420898,2017.0,1.7333908081054012,7.047928607146697
+Spain,ESP,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.64129996299744,1990.0,4.270929813385,2017.0,0.6296298503875599,17.29134805662267
+Spain,ESP,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,104.476547241211,1990.0,105.026321411133,2017.0,0.5497741699220029,0.5262177823054467
+Spain,ESP,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,101.15837097168,1990.0,129.810485839844,2017.0,28.652114868164006,28.324017669467384
+Spain,ESP,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,100.009750366211,1990.0,99.2391891479492,2017.0,-0.7705612182617898,-0.770486093046113
+Spain,ESP,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,126132.0,1990.0,228299.0,2017.0,102167.0,81.00006342561761
+Sri Lanka,LKA,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,28.3016395568848,1990.0,32.8285903930664,2017.0,4.526950836181598,15.995366017868562
+Sri Lanka,LKA,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.40932011604309,1990.0,2.17912006378174,2017.0,-0.23020005226134987,-9.554564822187906
+Sri Lanka,LKA,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,109.876388549805,1990.0,101.676696777344,2017.0,-8.199691772460994,-7.462651330903746
+Sri Lanka,LKA,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,71.9604110717773,1990.0,99.724510192871,2017.0,27.764099121093693,38.58246320105126
+Sri Lanka,LKA,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,96.7592468261719,1990.0,98.7149810791016,2017.0,1.9557342529297017,2.021237573751665
+Sri Lanka,LKA,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,69965.0,1990.0,76803.0,2017.0,6838.0,9.773458157650253
+St. Kitts and Nevis,KNA,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,39.2100791931152,1990.0,21.3818492889404,2017.0,-17.828229904174798,-45.4684873661393
+St. Kitts and Nevis,KNA,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.09996008872986,1990.0,2.78424000740051,2017.0,0.6842799186706499,32.585377328981984
+St. Kitts and Nevis,KNA,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,113.555557250977,1990.0,82.5056610107422,2017.0,-31.0498962402348,-27.343352445190572
+St. Kitts and Nevis,KNA,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,83.4630737304688,1990.0,90.3914566040039,2017.0,6.928382873535099,8.3011355367875
+St. Kitts and Nevis,KNA,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,118.249732971191,1990.0,85.2127685546875,2017.0,-33.036964416503494,-27.938299382504518
+St. Kitts and Nevis,KNA,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,346.0,1990.0,362.0,2017.0,16.0,4.624277456647398
+St. Lucia,LCA,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,32.6702613830566,1990.0,34.1783714294434,2017.0,1.508110046386804,4.616155434767773
+St. Lucia,LCA,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,9.00788974761963,1990.0,4.89715003967285,2017.0,-4.110739707946781,-45.63488034512256
+St. Lucia,LCA,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,141.591552734375,1990.0,100.295951843262,2017.0,-41.295600891113,-29.165299831539613
+St. Lucia,LCA,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,49.3766212463379,1990.0,85.142707824707,2017.0,35.766086578369105,72.43526526437198
+St. Lucia,LCA,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,123.875968933105,1990.0,107.597969055176,2017.0,-16.277999877929005,-13.14056311173589
+St. Lucia,LCA,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,1137.0,1990.0,1088.0,2017.0,-49.0,-4.309586631486368
+St. Martin (French part),MAF,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+St. Martin (French part),MAF,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,,,,,,
+St. Martin (French part),MAF,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,,,,,,
+St. Martin (French part),MAF,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,,,,,,
+St. Martin (French part),MAF,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+St. Martin (French part),MAF,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,,,,,,
+St. Vincent and the Grenadines,VCT,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,53.7778511047363,1990.0,41.3826713562012,2017.0,-12.3951797485351,-23.048856534625344
+St. Vincent and the Grenadines,VCT,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.87377023696899,1990.0,5.08522987365723,2017.0,0.21145963668824042,4.338728056654302
+St. Vincent and the Grenadines,VCT,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,113.282249450684,1990.0,104.521278381348,2017.0,-8.760971069336009,-7.733754504186454
+St. Vincent and the Grenadines,VCT,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,60.0706100463867,1990.0,106.436256408691,2017.0,46.3656463623043,77.18524304397877
+St. Vincent and the Grenadines,VCT,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,93.0253219604492,1990.0,98.1511688232422,2017.0,5.125846862792997,5.510162990859962
+St. Vincent and the Grenadines,VCT,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,1119.0,1990.0,897.0,2017.0,-222.0,-19.839142091152816
+Sudan,SDN,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+Sudan,SDN,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,1.01217997074127,1990.0,2.22459006309509,2017.0,1.2124100923538201,119.78206716201979
+Sudan,SDN,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,58.1842994689941,1990.0,70.4017486572266,2017.0,12.217449188232507,20.997845294576553
+Sudan,SDN,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,33.3824310302734,1990.0,42.6984596252441,2017.0,9.316028594970696,27.906980730439624
+Sudan,SDN,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,59.7434501647949,1990.0,56.8092498779297,2017.0,-2.934200286865199,-4.911333842909258
+Sudan,SDN,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,,,,,,
+Suriname,SUR,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+Suriname,SUR,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,,,,,,
+Suriname,SUR,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,122.139610290527,1990.0,122.811721801758,2017.0,0.6721115112309946,0.550281362149657
+Suriname,SUR,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,57.2911109924316,1990.0,81.1426773071289,2017.0,23.85156631469731,41.63222863289944
+Suriname,SUR,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,80.1148071289063,1990.0,94.5730133056641,2017.0,14.458206176757798,18.04685887028881
+Suriname,SUR,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,2733.0,1990.0,5014.0,2017.0,2281.0,83.46139773143067
+Swaziland,SWZ,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,33.4573593139648,1990.0,50.7876815795898,2017.0,17.330322265625,51.79823698277192
+Swaziland,SWZ,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,5.48457002639771,1990.0,7.04999017715454,2017.0,1.5654201507568297,28.542258430876565
+Swaziland,SWZ,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,94.039680480957,1990.0,112.765808105469,2017.0,18.726127624512003,19.913006433814964
+Swaziland,SWZ,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,49.2928810119629,1990.0,66.0280914306641,2017.0,16.735210418701207,33.95056258659285
+Swaziland,SWZ,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,62.8180389404297,1990.0,79.0078506469727,2017.0,16.189811706542997,25.772551928747383
+Swaziland,SWZ,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,5083.0,1990.0,8577.0,2017.0,3494.0,68.73893370057053
+Sweden,SWE,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,51.4610290527344,1990.0,22.7801895141602,2017.0,-28.680839538574205,-55.73312478688227
+Sweden,SWE,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,5.26878023147583,1990.0,7.67508983612061,2017.0,2.40630960464478,45.67109461634827
+Sweden,SWE,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,99.5568923950195,1990.0,123.019187927246,2017.0,23.46229553222649,23.566721467292638
+Sweden,SWE,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,89.7153930664063,1990.0,140.458831787109,2017.0,50.7434387207027,56.560459678466756
+Sweden,SWE,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,96.5242462158203,1990.0,103.762512207031,2017.0,7.238265991210696,7.498909626319719
+Sweden,SWE,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,64363.0,1990.0,65459.0,2017.0,1096.0,1.7028416947625187
+Switzerland,CHE,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,46.4693183898926,1990.0,29.5754795074463,2017.0,-16.8938388824463,-36.35482393070957
+Switzerland,CHE,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.52932977676392,1990.0,5.09607982635498,2017.0,0.56675004959106,12.512889931277806
+Switzerland,CHE,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,89.4330978393555,1990.0,103.915130615234,2017.0,14.482032775878508,16.193146749642853
+Switzerland,CHE,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,95.6798706054688,1990.0,101.213966369629,2017.0,5.534095764160199,5.783970786268899
+Switzerland,CHE,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,51.2451210021973,1990.0,95.5945510864258,2017.0,44.349430084228494,86.54371229277977
+Switzerland,CHE,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,44956.0,1990.0,47889.0,2017.0,2933.0,6.524156953465611
+Syrian Arab Republic,SYR,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,43.6318511962891,1990.0,38.8727607727051,2017.0,-4.759090423583999,-10.907376820144547
+Syrian Arab Republic,SYR,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.6982901096344,1990.0,5.13013982772827,2017.0,1.4318497180938698,38.71653319905229
+Syrian Arab Republic,SYR,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,105.537536621094,1990.0,80.1008834838867,2017.0,-25.4366531372073,-24.10199626748084
+Syrian Arab Republic,SYR,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,50.8008499145508,1990.0,50.4892196655273,2017.0,-0.31163024902350145,-0.6134351089552179
+Syrian Arab Republic,SYR,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,90.1119003295898,1990.0,68.9210891723633,2017.0,-21.190811157226506,-23.516107284076593
+Syrian Arab Republic,SYR,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,90272.0,1990.0,114676.0,2017.0,24404.0,27.033853243530665
+Tajikistan,TJK,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+Tajikistan,TJK,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,8.18558979034424,1990.0,5.23215007781982,2017.0,-2.9534397125244203,-36.08096408652571
+Tajikistan,TJK,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,90.5113296508789,1990.0,100.468292236328,2017.0,9.95696258544909,11.000791418991605
+Tajikistan,TJK,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,103.449531555176,1990.0,87.8946533203125,2017.0,-15.554878234863494,-15.036199778794671
+Tajikistan,TJK,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,98.8505783081055,1990.0,95.7846221923828,2017.0,-3.065956115722699,-3.101606655417309
+Tajikistan,TJK,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,23807.0,1990.0,32377.0,2017.0,8570.0,35.99781576847146
+Tanzania,TZA,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,41.557201385498,1990.0,49.1503295898438,2017.0,7.593128204345803,18.27150999392259
+Tanzania,TZA,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.13721990585327,1990.0,3.47914004325867,2017.0,1.3419201374054,62.78811711093659
+Tanzania,TZA,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,69.5779266357422,1990.0,81.7060165405273,2017.0,12.1280899047851,17.430944684912323
+Tanzania,TZA,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,5.3446798324585,1990.0,32.2560806274414,2017.0,26.9114007949829,503.51754714190093
+Tanzania,TZA,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,62.5497703552246,1990.0,73.6658401489258,2017.0,11.116069793701193,17.771559720478976
+Tanzania,TZA,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,96850.0,1990.0,190957.0,2017.0,94107.0,97.16778523489933
+Thailand,THA,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,51.5202789306641,1990.0,41.1059989929199,2017.0,-10.414279937744197,-20.2139432353612
+Thailand,THA,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.08446002006531,1990.0,4.12887001037598,2017.0,1.0444099903106703,33.860383455012524
+Thailand,THA,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,98.7710113525391,1990.0,102.729461669922,2017.0,3.9584503173828978,4.007704551342673
+Thailand,THA,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,28.5046901702881,1990.0,129.001708984375,2017.0,100.4970188140869,352.5630982610718
+Thailand,THA,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,88.5157928466797,1990.0,93.2555465698242,2017.0,4.739753723144503,5.354698377219918
+Thailand,THA,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,345016.0,1990.0,300968.0,2017.0,-44048.0,-12.766944141720964
+Timor-Leste,TLS,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,72.7583312988281,1990.0,64.8913192749023,2017.0,-7.8670120239257955,-10.81252398658641
+Timor-Leste,TLS,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,8.10202026367188,1990.0,7.77500009536743,2017.0,-0.32702016830445046,-4.036279318761456
+Timor-Leste,TLS,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,118.347053527832,1990.0,136.843200683594,2017.0,18.496147155762003,15.628734813758765
+Timor-Leste,TLS,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,37.0331192016602,1990.0,76.7647094726563,2017.0,39.73159027099611,107.2866426796016
+Timor-Leste,TLS,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,83.2353210449219,1990.0,106.10604095459,2017.0,22.870719909668097,27.477181108396064
+Timor-Leste,TLS,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,2991.0,1990.0,7714.0,2017.0,4723.0,157.9070544968238
+Togo,TGO,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,32.9676399230957,1990.0,64.472541809082,2017.0,31.5049018859863,95.56310964169239
+Togo,TGO,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,5.67655992507935,1990.0,5.21789979934692,2017.0,-0.45866012573242987,-8.079895778181509
+Togo,TGO,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,92.8152770996094,1990.0,121.799652099609,2017.0,28.984374999999602,31.228021836204352
+Togo,TGO,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,21.5273704528809,1990.0,54.7085914611816,2017.0,33.181221008300696,154.13503976682958
+Togo,TGO,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,36.3785018920898,1990.0,84.2718963623047,2017.0,47.8933944702149,131.65301477307102
+Togo,TGO,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,10739.0,1990.0,33891.0,2017.0,23152.0,215.58804357947668
+Tonga,TON,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,28.4720897674561,1990.0,44.4380989074707,2017.0,15.966009140014602,56.07600028805725
+Tonga,TON,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,5.5908899307251,1990.0,3.90804004669189,2017.0,-1.6828498840332102,-30.099857176314615
+Tonga,TON,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,107.209136962891,1990.0,108.074096679688,2017.0,0.8649597167970029,0.8067966418724154
+Tonga,TON,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,98.4316635131835,1990.0,90.0993728637695,2017.0,-8.332290649413991,-8.465051134991741
+Tonga,TON,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,127.824981689453,1990.0,110.93627166748,2017.0,-16.888710021972997,-13.212370382343272
+Tonga,TON,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,689.0,1990.0,782.0,2017.0,93.0,13.497822931785198
+Trinidad and Tobago,TTO,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,42.7016105651855,1990.0,39.1824188232422,2017.0,-3.5191917419432954,-8.241355994222106
+Trinidad and Tobago,TTO,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.65412998199463,1990.0,3.13660001754761,2017.0,-0.5175299644470197,-14.162877812149494
+Trinidad and Tobago,TTO,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,95.6522827148438,1990.0,106.160293579102,2017.0,10.508010864258196,10.985635225856988
+Trinidad and Tobago,TTO,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,83.168830871582,1990.0,85.5115432739258,2017.0,2.3427124023437926,2.8168153595438783
+Trinidad and Tobago,TTO,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,99.7894821166992,1990.0,94.8874816894531,2017.0,-4.902000427246108,-4.912341785192796
+Trinidad and Tobago,TTO,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,7473.0,1990.0,7447.0,2017.0,-26.0,-0.34791917569918374
+Tunisia,TUN,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,45.2701187133789,1990.0,27.659740447998,2017.0,-17.6103782653809,-38.90066729640896
+Tunisia,TUN,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,5.79086017608643,1990.0,6.25036001205444,2017.0,0.4594998359680096,7.934915055720583
+Tunisia,TUN,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,114.270553588867,1990.0,114.174476623535,2017.0,-0.09607696533200283,-0.0840784981909489
+Tunisia,TUN,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,44.8516998291016,1990.0,88.2040634155273,2017.0,43.3523635864257,96.65712504010145
+Tunisia,TUN,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,81.2517929077148,1990.0,99.7247009277344,2017.0,18.472908020019602,22.735385102210603
+Tunisia,TUN,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,46366.0,1990.0,70577.0,2017.0,24211.0,52.21714187119873
+Turkey,TUR,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,50.0755996704102,1990.0,20.503360748291,2017.0,-29.572238922119197,-59.05518679109001
+Turkey,TUR,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.36546993255615,1990.0,4.76626014709473,2017.0,1.40079021453858,41.622425474312536
+Turkey,TUR,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,104.214408874512,1990.0,102.489669799805,2017.0,-1.7247390747070028,-1.6549909876510627
+Turkey,TUR,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,50.2855796813965,1990.0,102.488761901855,2017.0,52.2031822204585,103.81342434791785
+Turkey,TUR,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,93.1071472167969,1990.0,91.7944107055664,2017.0,-1.3127365112304972,-1.4099202375665465
+Turkey,TUR,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,224672.0,1990.0,288444.0,2017.0,63772.0,28.38448938897593
+Turkmenistan,TKM,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+Turkmenistan,TKM,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.05590009689331,1990.0,3.05590009689331,2017.0,0.0,0.0
+Turkmenistan,TKM,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,89.3672027587891,1990.0,89.3672027587891,2017.0,0.0,0.0
+Turkmenistan,TKM,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,85.341423034668,1990.0,85.341423034668,2017.0,0.0,0.0
+Turkmenistan,TKM,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+Turkmenistan,TKM,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,,,,,,
+Turks and Caicos Islands,TCA,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,24.9510498046875,1990.0,36.1024017333984,2017.0,11.151351928710902,44.69291679509181
+Turks and Caicos Islands,TCA,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,3.26528000831604,1990.0,3.26528000831604,2017.0,0.0,0.0
+Turks and Caicos Islands,TCA,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,,,,,,
+Turks and Caicos Islands,TCA,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,,,,,,
+Turks and Caicos Islands,TCA,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+Turks and Caicos Islands,TCA,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,90.0,1990.0,285.0,2017.0,195.0,216.66666666666666
+Tuvalu,TUV,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,35.9484786987305,1990.0,56.2215614318848,2017.0,20.273082733154304,56.39482800664452
+Tuvalu,TUV,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,7.55418014526367,1990.0,7.55418014526367,1996.0,0.0,0.0
+Tuvalu,TUV,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,104.910102844238,1990.0,103.621170043945,2017.0,-1.2889328002929972,-1.2286069361753462
+Tuvalu,TUV,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,70.3703689575195,1990.0,86.1631011962891,2017.0,15.792732238769602,22.44230415830732
+Tuvalu,TUV,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,101.687759399414,1990.0,97.7876129150391,2017.0,-3.9001464843749005,-3.8354139253434822
+Tuvalu,TUV,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,69.0,1990.0,117.0,2017.0,48.0,69.56521739130434
+Uganda,UGA,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,61.2102584838867,1990.0,59.1550407409667,2017.0,-2.05521774292,-3.3576361117001756
+Uganda,UGA,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.46187996864319,1990.0,2.21387004852295,2017.0,-0.2480099201202397,-10.074005364970121
+Uganda,UGA,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,70.5465774536133,1990.0,109.88646697998,2017.0,39.339889526366704,55.76441968745256
+Uganda,UGA,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,11.4195404052734,1990.0,23.2365398406982,2017.0,11.8169994354248,103.48051686885628
+Uganda,UGA,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,60.6893692016602,1990.0,53.0530014038086,2017.0,-7.636367797851598,-12.58271077505729
+Uganda,UGA,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,84149.0,1990.0,192566.0,2017.0,108417.0,128.8393207287074
+Ukraine,UKR,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,54.9882202148438,1990.0,18.0335006713867,2017.0,-36.9547195434571,-67.20479295214824
+Ukraine,UKR,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,5.45600986480713,1990.0,5.8635401725769,2017.0,0.40753030776977006,7.469383631405445
+Ukraine,UKR,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,112.268402099609,1990.0,103.914710998535,2017.0,-8.353691101074006,-7.440821232729649
+Ukraine,UKR,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,93.7910232543945,1990.0,99.2369384765625,2017.0,5.445915222167997,5.806435448941361
+Ukraine,UKR,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,100.240509033203,1990.0,110.445449829102,2017.0,10.204940795899006,10.180455879886633
+Ukraine,UKR,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,119611.0,1990.0,99741.0,2017.0,-19870.0,-16.61218449808128
+United Arab Emirates,ARE,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,47.5148086547852,1990.0,47.5148086547852,2017.0,0.0,0.0
+United Arab Emirates,ARE,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,1.11103999614716,1990.0,1.11103999614716,2017.0,0.0,0.0
+United Arab Emirates,ARE,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,109.388778686523,1990.0,116.345840454102,2017.0,6.957061767579006,6.359940983997964
+United Arab Emirates,ARE,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,62.243579864502,1990.0,80.9587097167969,2017.0,18.7151298522949,30.067566635845576
+United Arab Emirates,ARE,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,92.9680633544922,1990.0,109.191352844238,2017.0,16.223289489745795,17.450389848270287
+United Arab Emirates,ARE,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,11921.0,1990.0,19518.0,2017.0,7597.0,63.72787517825685
+United Kingdom,GBR,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,26.7377605438232,1990.0,32.1665802001953,2017.0,5.428819656372099,20.303942985330657
+United Kingdom,GBR,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.05203008651733,1990.0,5.68426990509033,2017.0,1.6322398185729998,40.28202613806083
+United Kingdom,GBR,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,106.853477478027,1990.0,108.240211486816,2017.0,1.3867340087889914,1.297790246530961
+United Kingdom,GBR,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,84.3638076782227,1990.0,127.81128692627,2017.0,43.4474792480473,51.50014021861491
+United Kingdom,GBR,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+United Kingdom,GBR,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,228000.0,1990.0,272430.0,2017.0,44430.0,19.486842105263158
+United States,USA,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,38.1195487976074,1990.0,28.6981906890869,2017.0,-9.4213581085205,-24.715292824011176
+United States,USA,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.81444978713989,1990.0,5.38078022003174,2017.0,0.5663304328918501,11.763139256423502
+United States,USA,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,105.162117004395,1990.0,100.147041320801,2017.0,-5.015075683594006,-4.76889951101347
+United States,USA,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,91.0075225830078,1990.0,97.5646896362305,2017.0,6.557167053222699,7.20508246693774
+United States,USA,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+United States,USA,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,1427387.0,1990.0,1687937.0,2017.0,260550.0,18.25363408802238
+Uruguay,URY,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,34.8906707763672,1990.0,27.8763599395752,2017.0,-7.014310836792003,-20.103685829803727
+Uruguay,URY,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.47907996177673,1990.0,4.35693979263306,2017.0,1.8778598308563303,75.74825579690008
+Uruguay,URY,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,108.570533752441,1990.0,108.554718017578,2017.0,-0.015815734862997033,-0.014567244275559662
+Uruguay,URY,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,81.2108917236328,1990.0,95.0718612670898,2017.0,13.860969543457003,17.06787014557973
+Uruguay,URY,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,94.4789199829102,1990.0,103.276878356934,2017.0,8.797958374023807,9.312086098798785
+Uruguay,URY,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,15827.0,1990.0,28060.0,2017.0,12233.0,77.29196941934669
+Uzbekistan,UZB,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+Uzbekistan,UZB,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,,,,,,
+Uzbekistan,UZB,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,110.218719482422,1990.0,104.397750854492,2017.0,-5.82096862793,-5.281288564469619
+Uzbekistan,UZB,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,101.306686401367,1990.0,95.923942565918,2017.0,-5.382743835449006,-5.313315464808621
+Uzbekistan,UZB,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,97.6949768066406,1990.0,98.9463729858398,2017.0,1.2513961791992045,1.2809217219796132
+Uzbekistan,UZB,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,71000.0,1990.0,110677.0,2017.0,39677.0,55.8830985915493
+Vanuatu,VUT,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,57.8520584106445,1990.0,41.2950782775879,2017.0,-16.556980133056605,-28.619517762932702
+Vanuatu,VUT,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.38802003860474,1990.0,5.54987001419067,2017.0,1.1618499755859304,26.47777278508883
+Vanuatu,VUT,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,97.2035675048828,1990.0,119.705497741699,2017.0,22.501930236816207,23.14928434667367
+Vanuatu,VUT,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,17.7400894165039,1990.0,54.8158416748047,2017.0,37.0757522583008,208.99416788626
+Vanuatu,VUT,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,83.6972274780273,1990.0,93.770263671875,2017.0,10.073036193847699,12.035089449638141
+Vanuatu,VUT,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,869.0,1990.0,1729.0,2017.0,860.0,98.96432681242808
+"Venezuela, RB",VEN,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,20.7416591644287,1990.0,31.5452003479004,2017.0,10.803541183471701,52.08619569836264
+"Venezuela, RB",VEN,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.52840995788574,1990.0,6.87723016738892,2017.0,4.348820209503179,171.99822346608968
+"Venezuela, RB",VEN,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,105.852500915527,1990.0,99.9998321533203,2017.0,-5.852668762206704,-5.529079343035346
+"Venezuela, RB",VEN,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,55.4966201782227,1990.0,89.6640090942383,2017.0,34.1673889160156,61.566612176182836
+"Venezuela, RB",VEN,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,78.9554901123047,1990.0,95.2281265258789,2017.0,16.272636413574205,20.609885886881756
+"Venezuela, RB",VEN,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,,,,,,
+Vietnam,VNM,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,29.3825702667236,1990.0,29.6892700195313,2017.0,0.3066997528076989,1.0438152619855827
+Vietnam,VNM,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.87481021881104,1990.0,5.65873003005981,2017.0,0.7839198112487704,16.08103241073388
+Vietnam,VNM,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,104.561180114746,1990.0,108.876678466797,2017.0,4.315498352051009,4.1272471746351345
+Vietnam,VNM,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,34.8162689208984,1990.0,57.838020324707,2017.0,23.0217514038086,66.12354544972462
+Vietnam,VNM,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,98.9900131225585,1990.0,104.130187988281,2017.0,5.1401748657225,5.192619642709314
+Vietnam,VNM,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,251052.0,1990.0,392136.0,2017.0,141084.0,56.1971225084843
+Virgin Islands (U.S.),VIR,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+Virgin Islands (U.S.),VIR,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,,,,,,
+Virgin Islands (U.S.),VIR,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,,,,,,
+Virgin Islands (U.S.),VIR,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,,,,,,
+Virgin Islands (U.S.),VIR,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,,,,,,
+Virgin Islands (U.S.),VIR,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,1010.0,1990.0,1025.0,2017.0,15.0,1.4851485148514851
+West Bank and Gaza,PSE,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+West Bank and Gaza,PSE,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,1.80306994915009,1990.0,1.32231998443604,2017.0,-0.48074996471404985,-26.66285714210146
+West Bank and Gaza,PSE,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,92.0755462646484,1990.0,94.3291320800781,2017.0,2.2535858154297017,2.447539989556322
+West Bank and Gaza,PSE,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,68.4079971313477,1990.0,82.9962310791016,2017.0,14.588233947753906,21.32533411224359
+West Bank and Gaza,PSE,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,87.4384384155273,1990.0,95.5244064331055,2017.0,8.085968017578196,9.24761256502757
+West Bank and Gaza,PSE,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,9753.0,1990.0,18759.0,2017.0,9006.0,92.3408182097816
+"Yemen, Rep.",YEM,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,,,,,,
+"Yemen, Rep.",YEM,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,9.65153980255126,1990.0,5.14742994308472,2017.0,-4.50410985946654,-46.66726710566885
+"Yemen, Rep.",YEM,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,71.3284530639648,1990.0,97.4879608154297,2017.0,26.1595077514649,36.67471622860795
+"Yemen, Rep.",YEM,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,41.7834510803223,1990.0,48.6246604919434,2017.0,6.841209411621101,16.37301188566239
+"Yemen, Rep.",YEM,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,54.892650604248,1990.0,69.1675872802734,2017.0,14.274936676025398,26.005187431996042
+"Yemen, Rep.",YEM,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,102941.0,1990.0,121805.2265625,2017.0,18864.2265625,18.32528007548013
+Zambia,ZMB,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,38.7328681945801,1990.0,59.7587013244629,2017.0,21.0258331298828,54.28421418278791
+Zambia,ZMB,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,2.74057006835938,1990.0,1.0997200012207,2017.0,-1.6408500671386799,-59.87258220772153
+Zambia,ZMB,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,91.3558731079102,1990.0,103.652976989746,2017.0,12.297103881835795,13.460660451802994
+Zambia,ZMB,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,20.4336395263672,1990.0,19.6864490509033,2017.0,-0.7471904754639027,-3.656668575853761
+Zambia,ZMB,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,62.9089584350586,1990.0,81.0090484619141,2017.0,18.100090026855504,28.771879994707533
+Zambia,ZMB,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,33200.0,1990.0,64139.0,2017.0,30939.0,93.18975903614458
+Zimbabwe,ZWE,Expenditure on primary as % of government expenditure on education (%),SE.XPD.PRIM.ZS,62.3061981201172,1990.0,47.7684783935547,2017.0,-14.5377197265625,-23.332702307619396
+Zimbabwe,ZWE,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,12.4542598724365,1990.0,8.42932987213135,2017.0,-4.024930000305151,-32.31769725002317
+Zimbabwe,ZWE,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,97.425178527832,1990.0,99.937858581543,2017.0,2.5126800537109943,2.5790869379758776
+Zimbabwe,ZWE,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,45.0804214477539,1990.0,47.5701904296875,2017.0,2.489768981933601,5.522949657467437
+Zimbabwe,ZWE,"Primary completion rate, both sexes (%)",SE.PRM.CMPT.ZS,90.2815093994141,1990.0,90.2490615844727,2017.0,-0.03244781494140625,-0.03594070940689968
+Zimbabwe,ZWE,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,59154.0,1990.0,73148.0,2017.0,13994.0,23.656895560739763
