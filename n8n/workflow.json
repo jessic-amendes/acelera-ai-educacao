@@ -1,0 +1,218 @@
+{
+  "name": "My workflow",
+  "nodes": [
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        0,
+        0
+      ],
+      "id": "5afb9f11-6b37-4cc5-84a7-08c889dc81e5",
+      "name": "When clicking ‘Execute workflow’"
+    },
+    {
+      "parameters": {
+        "fileSelector": "/home/node/.n8n-files/data/processed/crescimento_por_pais_indicador.csv",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.readWriteFile",
+      "typeVersion": 1.1,
+      "position": [
+        208,
+        0
+      ],
+      "id": "a2785353-fe4e-49ab-9a40-08b25936f26f",
+      "name": "Read/Write Files from Disk"
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "n8n-nodes-base.extractFromFile",
+      "typeVersion": 1.1,
+      "position": [
+        416,
+        0
+      ],
+      "id": "d45a93c8-85a5-4d67-a71a-5ce87cbf05d6",
+      "name": "Extract from File"
+    },
+    {
+      "parameters": {
+        "jsCode": "// Agrupa os dados por indicador\nconst porIndicador = {};\n\nfor (const item of $input.all()) {\n  const dados = item.json;\n  const indicador = dados[\"Indicator Name\"];\n  \n  if (!porIndicador[indicador]) {\n    porIndicador[indicador] = [];\n  }\n  \n  porIndicador[indicador].push({\n    pais: dados[\"Country Name\"],\n    crescimento: parseFloat(dados[\"Crescimento_Percentual\"]),\n    valorInicial: parseFloat(dados[\"Valor_Inicial\"]),\n    valorFinal: parseFloat(dados[\"Valor_Final\"])\n  });\n}\n\n// Monta o resumo em texto\nlet resumo = \"RESUMO DOS INDICADORES EDUCACIONAIS (1990-2017)\\n\\n\";\n\nfor (const indicador in porIndicador) {\n  const paises = porIndicador[indicador]\n    .filter(p => !isNaN(p.crescimento))\n    .sort((a, b) => b.crescimento - a.crescimento);\n  \n  const top5Maiores = paises.slice(0, 5);\n  const top5Menores = paises.slice(-5).reverse();\n  \n  resumo += `--- ${indicador} ---\\n`;\n  resumo += \"Top 5 maiores crescimentos:\\n\";\n  top5Maiores.forEach(p => {\n    resumo += `  ${p.pais}: ${p.valorInicial.toFixed(2)} -> ${p.valorFinal.toFixed(2)} (${p.crescimento.toFixed(1)}%)\\n`;\n  });\n  resumo += \"Top 5 menores crescimentos/quedas:\\n\";\n  top5Menores.forEach(p => {\n    resumo += `  ${p.pais}: ${p.valorInicial.toFixed(2)} -> ${p.valorFinal.toFixed(2)} (${p.crescimento.toFixed(1)}%)\\n`;\n  });\n  resumo += \"\\n\";\n}\n\nreturn [{ json: { resumo: resumo } }];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        624,
+        0
+      ],
+      "id": "092f1e82-5dad-42be-b7e4-8b57873f6b68",
+      "name": "Code in JavaScript"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.openai.com/v1/chat/completions",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"model\": \"gpt-5-mini\",\n  \"messages\": [\n    {\n      \"role\": \"system\",\n      \"content\": \"Você é um analista de dados educacionais. Gere uma análise executiva interpretativa (não apenas descritiva) a partir do resumo de dados fornecido.\"\n    },\n    {\n      \"role\": \"user\",\n      \"content\": \"={{ JSON.stringify($json.resumo).slice(1, -1) }}\"\n    }\n  ]\n}",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.4,
+      "position": [
+        832,
+        0
+      ],
+      "id": "afb5a713-b02e-49a5-9363-e864ef68c234",
+      "name": "HTTP Request",
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "eeMHlsuqhAbxMUgD",
+          "name": "Header Auth account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "const analise = $input.first().json.choices[0].message.content;\n\nconst dataHora = new Date().toLocaleString('pt-BR');\n\nconst relatorioCompleto = `RELATÓRIO DE ANÁLISE EDUCACIONAL - GERADO POR IA\nData de geração: ${dataHora}\n${'='.repeat(60)}\n\n${analise}\n`;\n\nreturn [{ json: { relatorio: relatorioCompleto } }];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1024,
+        0
+      ],
+      "id": "c9e00f3a-d9ba-496e-b595-ecd426cfd28e",
+      "name": "Code in JavaScript1"
+    },
+    {
+      "parameters": {
+        "operation": "toText",
+        "sourceProperty": "relatorio",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.convertToFile",
+      "typeVersion": 1.1,
+      "position": [
+        1232,
+        0
+      ],
+      "id": "6064e524-a87c-4eeb-a26c-fcba567e1335",
+      "name": "Convert to File"
+    },
+    {
+      "parameters": {
+        "operation": "write",
+        "fileName": "/home/node/.n8n-files/data/processed/relatorio_n8n.txt",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.readWriteFile",
+      "typeVersion": 1.1,
+      "position": [
+        1280,
+        144
+      ],
+      "id": "ac46042e-3da1-4413-9d12-2683f1f4b05e",
+      "name": "Read/Write Files from Disk1"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "When clicking ‘Execute workflow’": {
+      "main": [
+        [
+          {
+            "node": "Read/Write Files from Disk",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read/Write Files from Disk": {
+      "main": [
+        [
+          {
+            "node": "Extract from File",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Extract from File": {
+      "main": [
+        [
+          {
+            "node": "Code in JavaScript",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Code in JavaScript": {
+      "main": [
+        [
+          {
+            "node": "HTTP Request",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "HTTP Request": {
+      "main": [
+        [
+          {
+            "node": "Code in JavaScript1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Code in JavaScript1": {
+      "main": [
+        [
+          {
+            "node": "Convert to File",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Convert to File": {
+      "main": [
+        [
+          {
+            "node": "Read/Write Files from Disk1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate",
+    "availableInMCP": false
+  },
+  "versionId": "491c280f-a95a-4bd4-8f67-36cb4b3be84f",
+  "meta": {
+    "instanceId": "782e020f470815ad23a3f5ebb11684c9757b5e2f496ca14c3ae00aab35702973"
+  },
+  "nodeGroups": [],
+  "id": "OUogfQVEipafYjCS",
+  "tags": []
+}
