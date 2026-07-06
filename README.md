@@ -274,7 +274,7 @@ Definido o intervalo de 1990 a 2017 para as análises de crescimento, já que o 
 
 ## Vídeo de demonstração
 
-🔗 [Link do vídeo no YouTube] — *(adicionar aqui após a gravação)*
+🔗 [Link do vídeo no YouTube](https://youtu.be/KV-6_Bsk8Yw)
 
 ---
 
